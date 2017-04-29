@@ -1,0 +1,94 @@
+bioinformatics
+brute force
+burstiness
+combinatory logic
+complexity theory
+computability theory
+computation tree logic
+computational linguistics
+computer engineering
+computer science
+computing
+contravariance
+denotational semantics
+halting problem
+insertion sort
+lexical analysis
+machine code
+mathematical semantics
+maximax
+memoization
+minimin
+ontology
+OR
+pattern matching
+polymorphism
+pruning
+rope
+semiautomaton
+space complexity
+test-driven development
+time complexity
+unification
+computer vision
+machine learning
+metaknowledge
+statistical semantics
+3DES
+atbash
+atomic authorization
+cleartext
+code
+cryptography
+encryption
+foursquare
+fractionation
+integrity
+IP
+keyspace
+malleability
+pad
+plain text
+Playfair
+public-key cryptography
+rubber-hose cryptanalysis
+Russian copulation
+Turingery
+Twofish
+zeroization
+data management
+master data
+master data management
+reference data
+transaction data
+a11y
+buzzword compliance
+i18n
+impedance
+internationalization
+m17n
+multilingualization
+AI
+alpha-beta pruning
+autoprojection
+backjumping
+big O notation
+complexity theory
+computability
+grammar
+Huffman coding
+imperative
+logspace
+metacircularity
+metacompilation
+metacomputation
+metaspace
+NP
+nugget
+primitive recursion
+random access
+RE
+rematerialization
+Shor's algorithm
+smoothsort
+type

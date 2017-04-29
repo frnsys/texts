@@ -1,0 +1,637 @@
+Ability Urge
+Absorb Bulb
+Acro Bike
+Adamant Orb
+Aguav Berry
+Air Balloon
+Air Mail
+Amulet Coin
+Antidote
+Apicot Berry
+Apricorn Box
+Aspear Berry
+AuroraTicket
+Awakening
+Azure Flute
+Babiri Berry
+BalmMushroom
+Basement Key
+Basement Key
+Basement Key
+Bead Mail
+Belue Berry
+Berry
+Berry Juice
+Berry Planter
+Berry Pouch
+Berserk Gene
+Bicycle
+Big Mushroom
+Big Nugget
+Big Pearl
+Big Root
+Bike Voucher
+Binding Band
+Bitter Berry
+Black Belt
+BlackGlasses
+Black Flute
+Black Sludge
+Blk Apricorn
+Bloom Mail
+Blu Apricorn
+Blue Card
+Blue Flute
+Blue Orb
+Blue Scarf
+Blue Shard
+BLU ID Badge
+Bluk Berry
+Bonsly Card
+Bonsly Photo
+Brick Piece
+BridgeMail D
+BridgeMail M
+BridgeMail S
+BridgeMail T
+BridgeMail V
+BrightPowder
+Bubble Mail
+Bug Gem
+Burn Drive
+Burn Heal
+Burnt Berry
+Calcium
+Carbos
+Card Key
+Card Key
+Card Key
+Casteliacone
+Cell Battery
+Charcoal
+Charti Berry
+Cheri Berry
+Cherish Ball
+Chesto Berry
+Chilan Berry
+Chilan Berry
+Chill Drive
+Chople Berry
+Choice Band
+Choice Scarf
+Choice Specs
+Claw Fossil
+Cleanse Tag
+Clear Bell
+Clear Bell
+Clever Wing
+Coba Berry
+Coin Case
+Colbur Berry
+Cologne Case
+Colress MCHN
+Comet Shard
+Contest Pass
+Cornn Berry
+Coupons
+Cover Fossil
+Cry Analyzer
+Custap Berry
+Damp Mulch
+Damp Rock
+Dark Gem
+Dark Stone
+Data ROM
+Dawn Stone
+D-Disk
+DeepSeaScale
+DeepSeaTooth
+Destiny Knot
+Devon Goods
+Devon Scope
+Dire Hit
+Dire Hit 2
+Dire Hit 3
+Disc Case
+Dive Ball
+DNA Sample
+DNA Splicers
+Dome Fossil
+Douse Drive
+Down St. Key
+Draco Plate
+Dragon Fang
+Dragon Gem
+Dragon Scale
+Dragon Skull
+Drash Berry
+Dread Plate
+Dream Ball
+Dream Mail
+Dropped Item
+Dubious Disc
+Durin Berry
+Dusk Ball
+Dusk Stone
+Earth Plate
+Eggant Berry
+Ein File C
+Ein File F
+Ein File H
+Ein File P
+Ein File S
+Eject Button
+Electirizer
+Electric Gem
+Elevator Key
+Elevator Key
+Elevator Key
+Elixir
+Energy Powder
+Energy Root
+Enigma Berry
+Eon Mail
+Eon Ticket
+Escape Rope
+Ether
+Everstone
+Eviolite
+Excite Scent
+EXP. All
+Explorer Kit
+EXP. Share
+Expert Belt
+Fab Mail
+Fame Checker
+Fashion Case
+Fast Ball
+Favored Mail
+F-Disk
+Fighting Gem
+Figy Berry
+Fire Gem
+Fire Stone
+Fist Plate
+Flame Mail
+Flame Orb
+Flame Plate
+Float Stone
+Flower Mail
+Fluffy Tail
+Flying Gem
+Focus Band
+Focus Sash
+Fresh Water
+Friend Ball
+Full Heal
+Full Incense
+Full Restore
+Galactic Key
+Ganlon Berry
+GB Sounds
+Gear
+Genius Wing
+Ghost Gem
+Ginema Berry
+Gracidea
+Glitter Mail
+Go-Goggles
+God Stone
+Gold Berry
+Gold Leaf
+Gold Teeth
+Gonzap's Key
+Good Rod
+Gooey Mulch
+Gorgeous Box
+Grams
+Grass Gem
+Grass Mail
+Great Ball
+Green Scarf
+Green Shard
+Greet Mail
+Grepa Berry
+Grip Claw
+Griseous Orb
+Grn Apricorn
+Grn ID Badge
+Ground Gem
+Growth Mulch
+GS Ball
+Guard Spec.
+Haban Berry
+Harbor Mail
+Hard Stone
+Heal Ball
+Heal Powder
+Health Wing
+Heart Mail
+Heart Scale
+Heat Rock
+Heavy Ball
+Helix Fossil
+HMs
+Hondew Berry
+Honey
+HP Up
+Hyper Potion
+Iapapa Berry
+Ice Berry
+Ice Gem
+Ice Heal
+Icicle Plate
+Icy Rock
+ID Card
+Inquiry Mail
+Insect Plate
+Iron
+Iron Ball
+Iron Plate
+Item Drop
+Item Urge
+Itemfinder
+Jaboca Berry
+Jade Orb
+Jail Key
+Journal
+Joy Scent
+Kebia Berry
+Kasib Berry
+Kelpsy Berry
+King's Rock
+Krane Memo 1
+Krane Memo 2
+Krane Memo 3
+Krane Memo 4
+Krane Memo 5
+Kuo Berry
+Lagging Tail
+Lansat Berry
+Lava Cookie
+Lax Incense
+L-Disk
+Leaf Stone
+Leftovers
+Lemonade
+Leppa Berry
+Letter
+Level Ball
+Liberty Pass
+Liechi Berry
+Life Orb
+Lift Key
+Light Ball
+Light Clay
+Light Stone
+Like Mail
+Litebluemail
+Lock Capsule
+Lost Item
+Love Ball
+Lovely Mail
+Luck Incense
+Lucky Egg
+Lucky Punch
+Lum Berry
+Lunar Wing
+Lure Ball
+Lustrous Orb
+Luxury Ball
+Mach Bike
+Machine Part
+Machine Part
+Macho Brace
+Magma Emblem
+Magma Stone
+Magmarizer
+Magnet
+Magnet Pass
+Mago Berry
+Magost Berry
+Maingate Key
+Master Ball
+Max Elixir
+Max Ether
+Max Potion
+Max Revive
+Meadow Plate
+Mech Mail
+Medal Box
+Member Card
+Mental Herb
+Metal Coat
+Metal Powder
+Meteorite
+Metronome
+Micle Berry
+Miracle Seed
+Mirage Mail
+Mind Plate
+Mint Berry
+MiracleBerry
+Miror Radar
+Moomoo Milk
+Moon Ball
+Moon Shard
+Moon Stone
+Morph Mail
+Muscle Band
+Muscle Wing
+Music Disc
+Music Mail
+Mystery Berry
+Mystery Egg
+MysticTicket
+Mystic Water
+Nanab Berry
+Nest Ball
+Net Ball
+NeverMeltIce
+Niniku Berry
+Nomel Berry
+Normal Box
+Normal Gem
+Nugget
+Nutpea Berry
+Oak's Parcel
+Oak's Letter
+Occa Berry
+Odd Incense
+Old Amber
+Old Charm
+Old Gateau
+Old Rod
+Old Sea Map
+Oran Berry
+Orange Mail
+Oval Charm
+Oval Stone
+Pal Pad
+Pamtre Berry
+Parcel
+Park Ball
+Park Ball
+Parlyz Heal
+Pass
+Passho Berry
+Payapa Berry
+Pearl
+Pearl String
+Pecha Berry
+Permit
+Persim Berry
+Petaya Berry
+Pinap Berry
+Pink Scarf
+Pink Bow
+Plasma Card
+Plume Fossil
+Pnk Apricorn
+Poffin Case
+Point Card
+Poison Barb
+Poison Gem
+Polkadot Bow
+Poké Ball
+Pokéblock Case
+Pokédex
+Poké Doll
+Poké Flute
+Poké Toy
+Poké Radar
+Pomeg Berry
+Portraitmail
+Potion
+Powder Jar
+Power Anklet
+Power Band
+Power Belt
+Power Bracer
+Power Herb
+Power Lens
+Power Weight
+Powerup Part
+PP Max
+PP Up
+Premier Ball
+Pretty Wing
+Prism Scale
+Prop Case
+Protein
+Protector
+PRZCureBerry
+PSNCureBerry
+Psychic Gem
+Pumkin Berry
+Pure Incense
+Qualot Berry
+Quick Ball
+Quick Claw
+Quick Powder
+RageCandyBar
+Rainbow Pass
+Rainbow Wing
+Rare Bone
+Rare Candy
+Rawst Berry
+Razor Claw
+Razor Fang
+Razz Berry
+R-Disk
+Reaper Cloth
+Red Card
+Red Apricorn
+Red Flute
+RED ID Badge
+Red Orb
+Red Scale
+Red Scarf
+Red Shard
+Relic Band
+Relic Copper
+Relic Silver
+Relic Gold
+Relic Crown
+Relic Statue
+Relic Vase
+Repeat Ball
+Reply Mail
+Reset Urge
+Resist Wing
+Retro Mail
+Reveal Glass
+Revival Herb
+Revive
+Rindo Berry
+Ring Target
+Rm. 1 Key
+Rm. 2 Key
+Rm. 4 Key
+Rm. 6 Key
+Rock Gem
+Rock Incense
+Rocky Helmet
+Root Fossil
+Rose Incense
+Rowap Berry
+RSVP Mail
+Ruby
+Running Shoes
+Sacred Ash
+Safari Ball
+Salac Berry
+Sapphire
+Scanner
+Scope Lens
+Sea Incense
+Seal Case
+Secret Key
+Secret Key
+SecretPotion
+Shadow Mail
+Sharp Beak
+Shed Shell
+Shell Bell
+Shiny Charm
+Shiny Leaf
+Shiny Stone
+Shoal Salt
+Shoal Shell
+Shock Drive
+Shuca Berry
+Silk Scarf
+Silph Scope
+Silver Leaf
+SilverPowder
+Silver Wing
+Sitrus Berry
+Sky Plate
+SlowpokeTail
+Small Tablet
+Smoke Ball
+Smooth Rock
+Snow Mail
+Soda Pop
+Soft Sand
+Soothe Bell
+Soot Sack
+Soul Dew
+Space Mail
+Spell Tag
+Spelon Berry
+Splash Plate
+Spooky Plate
+Sport Ball
+Sprayduck
+SquirtBottle
+S.S. Ticket
+Stable Mulch
+Stardust
+Starf Berry
+Star Piece
+Steel Gem
+Steel Mail
+Steel Teeth
+Stick
+Sticky Barb
+Stone Plate
+Storage Key
+Storage Key
+Strib Berry
+Subway Key
+Suite Key
+Sun Shard
+Sun Stone
+Super Potion
+Super Rod
+Surfboard
+Surf Mail
+Sweet Heart
+System Lever
+Swift Wing
+Tamato Berry
+Tanga Berry
+Tea
+Teachy TV
+Thanks Mail
+Thick Club
+Thunderstone
+Tidal Bell
+Time Flute
+Timer Ball
+Tinymushroom
+TM Case
+TMs
+Topo Berry
+Touga Berry
+Town Map
+Toxic Orb
+Toxic Plate
+Tri-Pass
+Tropic Mail
+Tunnel Mail
+TwistedSpoon
+U-Disk
+Ultra Ball
+Underground Key
+Unown Notebook
+Up-Grade
+Vivid Scent
+Voice Case 1
+Voice Case 2
+Voice Case 3
+Voice Case 4
+Voice Case 5
+Vs. Seeker
+Wacan Berry
+Wailmer Pail
+Water Gem
+Water Stone
+Watmel Berry
+Wave Incense
+Wave Mail
+Wepear Berry
+White Flute
+White Herb
+Wht Apricorn
+Wide Lens
+Wiki Berry
+Wise Glasses
+Wood Mail
+Works Key
+X Accuracy
+X Accuracy 2
+X Accuracy 3
+X Accuracy 6
+X Attack
+X Attack 2
+X Attack 3
+X Attack 6
+X Defend
+X Defend 2
+X Defend 3
+X Defend 6
+X Special
+X Special 2
+X Special 3
+X Special 6
+X Sp. Def
+X Sp. Def 2
+X Sp. Def 3
+X Sp. Def 6
+X Speed
+X Speed 2
+X Speed 3
+X Speed 6
+Xtransceiver
+Yache Berry
+Yago Berry
+Yellow Flute
+Yellow Scarf
+Yellow Shard
+Ylw Apricorn
+Ylw ID Badge
+Zap Plate
+Zinc
+Zoom Lens

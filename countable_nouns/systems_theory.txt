@@ -1,0 +1,115 @@
+adaptive-control function
+agent
+agroecosystem
+air traffic controller
+architecture
+attractor
+automatic leveling system
+automaton
+biostimulation
+circuitry
+circulatory system
+civilization
+closed system
+compatibility
+complex
+complexity
+consistency
+contention system
+control function
+control mechanism
+control theory
+cyberneticist
+decoherence
+dispensation
+dynamic system
+dynamical system
+ecosystem
+emergent
+environment
+equilibrium
+feedback transfer function
+fitness model
+functional requirement
+geographic information system
+homeostasis
+host response
+hysteresis
+hysteresis loop
+information system
+infrastructure
+input
+interface
+interference
+internal energy
+irreversibility
+isolated system
+life cycle
+limit cycle
+linear system
+macrostate
+macrosystem
+metastability
+method
+microstate
+modeler
+modeling
+network subsystem
+notation
+open system
+openness
+overflow
+panarchy
+performance
+Petri net
+physical system
+pluralism
+political system
+portability
+process
+reductionism
+redundancy
+scheme
+scientific model
+sealed system
+simulator
+social pattern
+state variable
+static equilibrium
+stationary phase
+stimulus
+sub-system
+supertribe
+supply chain
+syncretism
+system
+systems analyst
+systems science
+thermostat
+throughput
+token economy
+transition point
+transitionist
+travel system
+variety
+weakest link
+cyberneticist
+cyberspace
+cyborg
+electrolocation
+trajectory
+variety
+buffer
+business analyst
+capacity utilization rate
+critical path
+cycle time
+ERP
+FIFO
+inventory
+logistic
+logistics
+PERT chart
+stock
+throughput
+utilization rate

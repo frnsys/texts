@@ -1,0 +1,335 @@
+'Ave A Taste
+Activate Frag Missiles
+Activate Krak Missiles
+Adrenal Rush
+Advanced Healing
+Aiming? Wotz Dat?
+And They Shall Know No Fear
+Anti-Grav Grenade
+Assail
+Assassinate
+Assault Cannon Barrage
+Assault Leap
+Assault Leap
+Avatar Aura
+Back in the Fight!
+Banshee Exarch Aura
+Basic Synapse
+Battle Cry
+Big Stomp
+Bilious Discharge
+Bio-Plasma
+Bio-Plasma
+Blade Flurry
+Blight Grenade
+Blind Grenade
+Blood Rage
+Bloodletter Energy Drain
+Bommaboyz
+Boomgun
+Breath of Nurgle
+Brothers in Arms
+Burna Bomb
+Burrow
+Burrow
+Burrow Strike
+Burrow Trap
+Cacophony
+Call Reinforcements
+Capillary Synapse
+Chains of Torment
+Channeling
+Chaos Shrine Aura
+Charge
+Charge
+Charge
+Chem Bomb
+Cleansing Flame
+Cleansing Flame
+Cloaking Shroud
+Combat Stimulants
+Consume
+Consume
+Conversion Field
+Corrosive Shots
+Coruscating Flame
+Crippling Poison
+Crippling Volley
+Curse of Tzeentch
+Cyclone Missile Barrage
+Daemonic Roar
+Daemonic Shield
+Damage Synapse
+Dark Halo
+Defend
+Deff Rolla Rampage
+Deployable Cover
+Destructive Strike
+Destructor
+Distribute Medi-kit
+Doom
+Doom Blast
+Doombolt
+Drain Life
+Electric Shock
+Embolden
+Emperor's Fist
+Energy Field
+Energy Shield
+Entangle
+Ethereal Slash
+Explosive Shot
+Explosive Shot
+Fleet of Foot
+Flesh Hooks
+Flesh Hooks
+Flesh Over Steel
+Force Barrier
+Forceshield
+Fortune
+Foul Snare
+Frenzied Barrage
+Full Auto
+Furious Charge
+Gate of Infinity
+Grenade Barrage
+Group Teleport
+Guide
+Hammer of the Witches
+Haywire Grenade
+Heal
+Healing Aura
+Heart of Darkness
+Heavy Gauge Filament
+High Explosive Shells
+High Powered Shot
+Holo-field
+Immolate
+Immolate
+Improved Synapse
+Infiltrate
+Infiltrate
+Infiltrate
+Infiltrate
+Infiltrate
+Infiltrate
+Invulnerability
+Iron Halo
+Judge
+Judgement
+Jump
+Jump
+Khaine's Wrath
+Kill the Weak!
+Kinetic Pulse
+Kraken Bolts
+Kustom Force Field
+Leap
+Let the Galaxy Burn!
+Luv da Dakka
+Mark Target
+Melee Resistance Aura
+Melee Synapse
+Melta Bomb
+Melta Bomb
+None Shall Fall!
+Now I'm Angry
+Off Map Artillery
+Ol' Reliable
+Orbs of the Omnissiah
+Over Dere!
+Pestilent Strike
+Phase Shift
+Plague Marine Aura
+Plasma Grenade
+Plasma Overcharge
+Powerful Sweep
+Providence
+Proximity Mine
+Psychic Scream
+Psychic Shield
+Purification Vials
+Quickening
+Rampage
+Rampage
+Refractor Field
+Refractor Field
+Refractor Field
+Repair
+Fight Harder!
+Fire Baneblade Cannon
+Fire Demolisher Cannon
+Fire on my target!
+Fleet of Claw
+Focused Warp Blast
+Foot of Gork
+Frag Assault
+Frag Grenade
+Frazzle
+Frenzy
+Ground Pound
+Hellfury Strike
+Hero Nimbus
+Hero XP Modifier
+Hide Da Gunz
+Holy Pyre
+HQ Aura
+Impenetrable
+Imperial Guard Bunker
+Improvised Explosives
+Incoming!
+Infiltrated Storm Troopers
+Inspire Courage
+Inspire Determination
+Inspire Terror
+Kaboom!
+Land Raider Aura
+Lead by Example
+Leech Essence
+Levitation Field
+Mega Boomshot
+Mega-Rumblah
+Merciless Strike
+Mind War
+Move! Move! Move!
+Multi-laser Turret
+Pheromone Cloud
+Pheromone Cysts
+Plant Booby Trap
+Proximity Mines
+Purgatus
+Ranged Synapse
+Regeneration Synapse
+Rejuvination Field
+Restoration Field
+Resurrect
+Retreat Beacon
+Right in Me Crosshairs
+Rocket Run
+Rokkit Barrage
+Shieldwall
+Shoot 'em Good
+Silently
+Smoke Bomb
+Smoke Grenade
+Speed Synapse
+Spiritual Rites
+Spore Cloud
+Spore Cysts
+Spore Detonation
+Stand Firm
+Stikkbomb
+Stikkbomb
+Stomp
+Storm Eagle
+Stunbomb
+Stunbomb
+Summary Execution
+Supa Tuff Beam
+Swamp 'Em
+Swarmlord Melee Resistance Aura
+Teleport
+Teleport
+Teleporter Relay Aura
+Terrify
+Time Field
+Toxic Burst
+Toxic Miasma
+Waaagh! Banner Aura
+Warp Field
+Warp Vomit
+Warpath
+Weirdboy Recharge Aura
+Salvage
+Scorpion Shield
+Seer Council Aura
+Seismic Roar
+Shimmer Orb
+Singularity
+Skyleap
+Smite
+Smoke Launcher
+Sprint
+Stoicism
+Subjugate
+Swarm of Flies
+Sweeping Doom
+Teleport
+Teleport
+The Wailing Doom
+Tunnel
+Unholy Stench
+Use yer 'ead!
+Veil of Time
+Vengeance Rounds
+Vomit
+Waaagh!!!
+War Shout
+Warlock Defense Aura
+Warlock Energy Aura
+Warp
+Warp
+Warp Field
+Warp Rift
+Warp Shift
+Warp Spider Exarch Energy Aura
+Warp Throw
+Warpfire
+Wind Walk
+Worship
+Worship
+Worship
+Wraithbone
+Wraithbone
+Wraithsight
+Zzap
+'Ard Boyz
+Air Dropped Mines
+Angels of Death
+Basilisk Creeping Barrage
+Blessing of the Omnissiah
+Blood Sacrifice
+Bloodlust
+Brood Nest
+Call da Boyz!
+Catalyst
+Crack Shot
+Daemonic Summoning
+Dark Flames
+Deep Strike Terminator Assault Squad
+Deep Strike Terminator Squad
+Distort Field
+Drop Pod
+Eldritch Storm
+Empyreal Abyss
+Farsight
+For the Emperor
+Hide da Boyz
+Kommandos Iz Da Sneakiest
+Kult of Speed
+Larraman's Blessing
+Loyal To The End
+Malignant Blindness
+Mass Warp
+More Dakka!
+Mycetic Spores
+Noxious Cloud
+Off-map Basilisk Flare
+Orbital Bombardment
+Plague of Undeath
+Roks
+Spider's Brood
+Spore Mines
+Stalk
+Summon Autarch
+Summon Seer Council
+Swift Movement
+Touch of Nurgle
+Tyranoform
+Use Yer Choppas!
+Valkyrie Bane Wolf Drop
+Valkyrie Leman Russ Drop
+Venerable Dreadnought Drop Pod
+Warrior Vanguard
+Webway Gate
+Without Number

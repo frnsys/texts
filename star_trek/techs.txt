@@ -1,0 +1,1899 @@
+Artificial microbe
+Exocomp
+Hologram
+Nanite
+Access terminal
+Borg alcove
+Assimilation
+Assimilation tubule
+Audio implant
+Auditory processor
+Auto-regeneration unit
+Autonomous regeneration sequencer
+Axonal amplifier
+Bio-synthetic gland
+Biochip
+Biogenic charge
+Bionetic implant
+Biradial clamp
+Borg missile
+Central alcove
+Central plexus
+Central power matrix
+Chronometric node
+Cortical array
+Cortical implant
+Cortical inhibitor
+Cortical node
+Cortical processing subunit
+Cranial implant
+Cranial transceiver
+Cutting beam
+Cybernetic matrix
+Data node
+Dataport
+Designator interface circuit
+Dispersion field
+Distribution node
+Exo-plating
+Extraction tubule
+Eyepiece
+Field regulator
+Forced plasma beam
+Harmonic resonance chamber
+Incubation pod
+Induction grid
+Insertion juncture
+Interlink module
+Interlink node
+Interlink transceiver
+Internal transporter node
+Interplexing beacon
+Interspatial manifold
+Intramolecular processor
+Laser scalpel
+Magnetometric guided charge
+Maturation chamber
+Microcircuit fiber
+Microconnector
+Multi-regenerative security field
+Nanoprobe
+Nanoprobe virus
+Neural interface
+Neural interlink frequency
+Neural link
+Neural processor
+Neural transceiver
+Neural transponder
+Neuro-electric field generator
+Neuro-processing adjunct
+Occipital implant
+Ocular node
+Power node
+Proton beam
+Proximity transceiver
+Reticular node
+Sensory node
+Sequencer conduit
+Servo-armature
+Spinal clamp
+Subvocal processor
+Synaptic relay
+Temporal transmitter
+Thoracic assembly
+Thoracic node
+Transneural matrix
+Transwarp
+Transwarp aperture
+Transwarp coil
+Transwarp conduit
+Transwarp hub
+Transwarp network
+Transwarp signal
+Triaxilation
+Vinculum
+Viral sequencer
+Vocal subprocessor
+Communications
+Amplitude modulation
+Antenna
+Automatic transmission station
+Bajoran Regional Comm Network
+Bionetic implant
+Broadband inversion
+Call letters
+Carrier wave
+Cellular comlink
+Cellular phone
+Central plexus
+Chambers coil
+Class 2 signal
+Code
+Code 2
+Code 3
+Code 47
+Code Factor 1
+Coded transponder frequency
+Combadge
+Comm link
+Comm-pic
+Commercial
+Communication array
+Communications blackout
+Communications juncture
+Communications station
+Communicator
+Communing
+Compact disc
+Corado I transmitter array
+Covariant isolator
+Desktop monitor
+Directional locator
+Display buffer
+Distress beacon
+E-band transmitter
+E-mail
+Earpiece
+Eavesdropping device
+Echo One
+Echo Three
+Echo Two
+Emergency channel
+Emergency medical holographic channel
+Emergency transmitter
+Emergency transponder
+Encoding filter
+Fan mail
+Federation communications satellite
+Federation hailing beacon
+Feedback pulse
+Forced spectrum communcation
+Frequency modulation
+Ghetto blaster
+GSK 783
+Hail
+High-gain antenna
+Hirogen communications network
+Holo-communicator
+Homing beacon
+Homing transponder
+Hyper-subspace
+Intercom
+Interface
+Interlink node
+Internet
+Interplexing beacon
+Intersat code
+Inversion field
+Isolinear frequency
+Jamming signal
+Laser beacon
+Listening post
+Log buoy
+Lunar beacon
+Magnetic communication satellite
+MIDAS array
+Morse code
+Mute (function)
+Navigation beam
+Neon sign
+Neural processor
+Neural transceiver
+Neural transponder
+Neurogenic transmitter
+Newsreel
+Nokia
+Nucleotide resonance frequency
+Omnidirectional antenna
+Optronic pathway
+Pager
+Phone number
+Phonograph
+Piggyback
+Postcard
+Priority A-1 channel
+Quantum discriminator
+Quarantine transmitter
+Radio
+Radio silence
+Radio transmitter
+Radio-interference distress call
+Radiola 20
+Recording-translating device
+Red 2 message
+Registration beam
+SETI
+Signal booster
+Signal relay
+Smoke signal
+Speaker
+Stargram
+Stationary beacon
+Subcutaneous transponder
+Subprocessor
+Subsonic transmitter
+Subspace amplifier
+Subspace antenna
+Subspace bandwidth
+Subspace beacon
+Subspace communication
+Subspace interference
+Subspace link
+Subspace log
+Subspace marker
+Subspace monitor
+Subspace postcard
+Subspace relay
+Subspace relay network
+Subspace relay station
+Subspace signal
+Subspace static
+Subspace teleconference
+Subspace transceiver
+Subspace transmission
+Subspace transmitter
+Subspace transponder
+Subvocal processor
+Synaptic transmitter
+Telegram
+Telegraph
+Telephone
+Telephone booth
+Television
+Temporal communications chamber
+Temporal communicator
+Temporal transmitter
+Tetryon-based signaling device
+Text message
+Tight beam transmission
+Toroidal antenna
+Transceiver
+Transceiver array
+Translation algorithm
+Translation matrix
+Transponder
+Transwarp signal
+Triaxilation
+Universal translator
+Viewer
+Viewscreen
+Visual recording device
+Vocal subprocessor
+Voice film
+Voice-transit conductor
+Voiceprint
+Vulcan band frequency
+Wide-band subspace
+Woofer
+Wormhole relay station
+Yoshimitsu computer
+Self-aware machines
+Self-aware programs
+Activation subroutine
+Adaptive interface link
+Algorithm
+Allocator
+ANA
+Artificial intelligence
+Atavachron
+Audio tape
+Automation center
+Bajoran Intelligence net
+Beta 5 computer
+Binary language
+Bio-neural circuitry
+Bio-neural gel pack
+Bio-scanner
+Biocomputer
+Biomechanics
+Bit
+Bridge control relay
+Byte
+Cascade failure
+Cascade virus
+Central brain
+Checksum
+Chi 14
+Class A compulsory directive
+Com booth
+Command authorization code
+Command computer
+Command sequencer
+Communing
+Compact disc
+Compulsory scan unit
+Computer
+Computer access room
+Computer core
+Computer core processor
+Computer game
+Computer virus
+Computer voice
+Conduit interface
+Controller
+Cortex processor
+Counter-insurgency program
+Cranial unit
+Custodian
+Cybernetics
+Data card
+Data clip
+Data crystal
+Data disk
+Data interpolation
+Data node
+Data stream
+Dataport
+Deep code level
+Defense procedure omega
+Desktop monitor
+Detonation code
+Diagnostic mode
+Duodynetic field core
+Duotronic algorithm
+Duotronics
+Emergency Medical Hologram Replacement Program
+Emergency Medical Holographic program
+Emergency procedure alpha two
+EMH backup module
+Emotion chip
+Emotional subroutine
+Encryption key
+Engineering Systems Database
+Entertainment tape
+Ethical subroutine
+Exceiver
+Facsimile construction program 047
+Fractal algorithm
+Fractal encryption code
+Great Teacher
+Ground test computer
+Hard drive
+Holographic novel
+Holographic program
+Hyperpro 2000
+HyperPro PC
+Iconian software transmission
+Image processor
+Induced self-destruction
+Input polarizer
+Invasive program
+Isograted circuit
+Isolinear chip
+Isolinear circuitry
+Isolinear rod
+Isolinear storage assembly
+Isolinear subprocessor
+Jack-in-the-box
+Jupiter Station Diagnostic Program Alpha-11
+Keyboard
+Klingon Imperial information net
+Laptop computer
+Library Computer Access and Retrieval System
+Linear memory crystal
+Long-term Medical Holographic program
+M-1 multitronic unit
+M-2 multitronic unit
+M-3 multitronic unit
+M-4 multitronic unit
+M-5 multitronic unit
+Macintosh
+Master computer
+Master systems display
+Master systems display table
+Medical Consultant Program Beta one
+Megalite survey
+Memory bank
+Memory cell
+Memory coil
+Memory loss fail-safe system
+Memory tape
+Microdyne coupler
+Microrecord
+Microtape
+Mnemonic memory circuit
+Mobility algorithm
+Modesty subroutine
+Modulating algorithm
+Mouse (computing)
+Multiprocessor chip
+Multitronic engrammatic interpreter
+Multitronics
+Narrative parameters file
+Navigational computer
+Neural scan interface
+Neurogenic interface
+Neurological behavior program
+Node
+ODN matrix
+ODN relay
+Odo One
+Operating system
+Operations per second
+Opti-cable
+Optical chip reader
+Optical data net service access
+Optical data network
+Optolythic data rod
+Organic circuitry
+PADD
+Phaser adapter
+Positronic brain
+Positronic decompiler
+Positronic link
+Positronic matrix
+Positronic subprocessor
+Prefix code
+Program bank
+Program Sisko 197
+Progressive memory purge
+Pup
+Quad
+Recursive algorithm
+Secondary command processor
+Security clearance
+Security lockout
+Self-diagnostic
+Sequence
+Software
+Spacecraft Operating & Management System
+Sperographic analysis computer
+Starlog
+Static memory
+Status display
+Submicron matrix transfer
+Subprocessor relay
+Subroutine
+Subroutine C-47
+Subroutine transplant
+Subspace infrared algorithm
+Tactile acuity subroutine
+Tactile interface
+TCARS
+Topological anomaly
+Transistor unit
+Transoptic datalink
+Transtator
+Transwarp
+Transwarp computer
+Trinary syntax
+Triquadric algorithm
+USS Defiant (NCC-1764) library computer
+USS Defiant (NX-74205) library computer
+USS Enterprise (NCC-1701) library computer
+USS Enterprise (NCC-1701-D) library computer
+USS Voyager library computer
+Vehicle classification index
+Verism tape
+Vulcan encryption code
+Y2K bug
+Yoshimitsu computer
+Antimatter chamber
+Antimatter injector
+Antimatter pod
+Antimatter purge vent
+Antimatter reactor
+Antimatter stream coil
+Antiproton injection seal
+Antiproton injection subsystem
+Antiproton injector
+Battery
+Bussard collection coil
+Bussard collector
+Bussard unit
+Bypass circuit
+Carbon reaction chamber
+Central power linkage
+Central power matrix
+Chromodynamic power module
+Coladrium flow
+Cryogenic fluid
+Deuterium injection subsystem
+Deuterium injector
+Deuterium stream coil
+Deuterium tank
+Dilithium crystal chamber
+Dilithium crystal circuit
+Dilithium crystal converter assembly
+Dilithium crystal servo subsystem
+Dilithium regulator
+Dilithium sequencer
+Distribution node
+Dolamide reactor
+Electro-plasma system
+EM power inverter
+Emergency light
+Energizer
+Energy beam
+Energy cell
+Energy matrix
+EPI capacitor
+EPS grid
+EPS matrix converter
+EPS power stabilizer
+EPS tap
+Field generator
+Field stress compensator
+Fuel cell
+Fusion reaction subsystem
+Fusion reactor
+Global power grid
+Hyperpower circuitry
+Injector port
+Intercooler
+Ionic interference signal
+Krellide power cell
+Krieger wave converter
+Lithium crystal circuit
+Magnetic containment field
+Mark VI warp drive
+Microfusion reactor
+Neodymium power cell
+Neodyne relay
+Neuro-electric field generator
+Nuclear fission reactor
+Nuclear reactor
+Planetary Reserve
+Plasma conduit
+Plasma coupling
+Plasma energy
+Plasma flow regulator
+Plasma injection throttle subsystem
+Plasma manifold
+Plasma regulator
+Plasma relay
+Plasma tank
+Power cell
+Power company
+Power converter
+Power core
+Power coupling
+Power generator
+Power grid
+Power node
+Power pack
+Power plant
+Power relay
+Power supply converter
+Power transfer conduit
+Power transfer field
+Primary energy circuit
+Primary EPS relay
+PXK pergium reactor
+Quarren power plant
+Radiometer
+Radiometer reference horn
+Radiometric converter
+Shield generator
+Solar panel
+Spin reversal system
+Subspace power generator
+Tetryon power cell
+Tetryon reactor
+Thermionic generator
+Transkinetic energy regulator
+Turbine
+Type VI reactor
+Warp core
+Warp plasma regulator
+Anicium
+Antideuterium
+Antigen bomb
+Antimatter
+Argine
+Avitable compound 283
+Balter compound 298
+Bilitrium
+Bio-genovesium
+Bishop/P 374
+Blitmanite
+Blitmanite 834
+Brown tricobalt 126
+Cabrodine
+Cervantes fusion explosive
+Clancium oxide
+Cold fusion
+Dynamite
+Evora oxide
+Explosive capsule
+Fragmentation grenade
+Grant thermite 893
+Grenade
+Gronerium compound 3983
+Hoffmeisterite compound 239
+Hutzelite 27
+Infernite
+Lauritson solid 451
+Lichfield suspension
+Micro-charge
+Micro-detonator
+Micro-explosive
+Molnar composite (thermal)
+Mooride polyronite B
+Moyerite (synthetic)
+Neussite 283
+Nitrilin
+Pastorium liquid 342
+Plutonium
+Plutonium ryanite
+Rossium-K
+Ryan Crystals 8489
+Sarium krellide
+Saurium krellide 024
+Sorium
+Sternbachium
+Takemurium 9839
+Tekasite
+Thalmerite
+Thermal grantium compound
+Thermolyte explosive
+Thermolytic charge
+Toddtracium
+Tri-nikolas powder
+Triceron
+Tricobalt
+Trilithium
+Trilithium resin
+Ultritium
+Ultritium 283
+Ultritium 342
+Ultritium compound 902
+Walkerite 342
+Yurium
+Assault probe
+Bilateral kelilactiral
+Brain probe
+Confinement rings
+Corbomite
+Cradle of Persuasion
+Crimson force field
+Death ray
+IRW Decius
+Destructo beam
+Firomactal drive
+FTL nanoprocessor
+Hunting sensor
+Imagizer
+Interquadratal warp drive
+Isopalavial interface
+KRG
+Lightning shield
+USS Lollipop
+Multi-spectral cloaking system
+Ontarian manifold
+USS Orion
+Phage torpedo
+Photonic cannon
+Primary heisenfram terminal
+Ray gun
+Redundant melacortz ramistat
+Rocket ship
+Spider ship
+Spy satellite
+Starbase 384
+Telekinetic suppression collar
+Transphasic warp drive
+USS Vortex
+USS Voyeur
+Warship Voyager
+Holotechnology
+Bi-converter interface
+Bridge control relay
+Electro-optic modulator
+Holo-communicator
+Holo-image
+Holo-projection
+Holo-recording
+Holobuffer
+Holocomic book
+Holodeck
+Holodeck matter
+Holodeck reactor
+Holodeck safety protocol
+Holofilter
+Hologenerator
+Hologram
+Holographic imager
+Holographic projector
+Holographic research lab
+Holography
+Hologrid
+Holomatrix
+Holosuite
+Interactive holoprojector
+Isomorphic projection
+Matrix diode
+Mobile emitter
+Narrative parameters file
+Objective mode
+Optronic data core
+Parabolic mirror
+Particle synthesis
+Perceptual filter
+Photometric projection
+Spatial orientation system
+Subjective mode
+Tactile response sensor
+Vocal processor
+DNA reference scan
+Fingerprint
+Footprint
+Identification card
+Identity tape
+International Designator
+Registry
+Retinal scan
+Serial number
+Starfleet ID code
+Starfleet Registry
+Subspace marker
+Thumbscan
+Transit pass
+UHC card
+Voiceprint
+Propulsion
+Acceleration thruster
+Antimatter constrictor coil
+Antimatter containment field
+Antiproton injection seal
+Arva node
+Ascent thruster
+Atomic matter pile
+Attitude control
+Attitude control thruster
+Avidyne engine
+Booster rocket
+Braking thruster
+Chemical rocket
+Coladrium flow
+Control thruster
+Core hatch
+Deuterium filter
+Deuterium pump
+Driver coil
+Electromagnetic coil
+Emergency thruster
+Exhaust manifold
+Fuel converter
+Fusion overburn
+Fusion reactor
+Graviton catapult
+Graviton surge
+Guidance thruster
+Hyper-impulse drive
+Impulse burst
+Impulse capacitance cell
+Impulse drive
+Impulse generator
+Impulse manifold
+Impulse pack
+Impulse reactor
+Impulse signature
+Impulse thruster
+Impulse wake
+Inducer assembly
+Ion distributor
+Ion drive
+Ion propulsion
+Landing thruster
+Lang cycle fusion engine
+Magnetic constrictor
+Maneuvering thruster
+Matrix compositor
+Micro-power relay
+Microfusion generator
+Microfusion thruster
+Mid-course motor
+Nacelle
+Nuclear fission reactor
+Plasma coil
+Plasma exhaust
+Plasma inducer
+Polarity thruster
+Primary drive coil
+Primary warp coil
+Propulsion matrix
+Quantum warp field
+RCS inverter
+Reaction control thruster
+Retrorocket
+Rocket
+Sailing
+Solar sail
+Soliton wave
+Space matrix restoration coil
+Sprit
+Sub-impulse thruster
+Subspace emitter coil
+Subspace vortex
+Temporal displacement drive
+Theta-matrix compositor
+Throttle assembly
+Thruster
+Thruster array
+Thruster control
+Torque buffer
+Total conversion drive
+Transfer valve
+Tritium intermix
+Variable compression nozzle
+Warp sensor grid
+Warp stabilizer
+Yoyodyne pulse fusion
+Active polaron scan
+Antiproton beam
+Atmospheric analysis
+Baryon sweep
+Coherent neutrino beam
+Coherent tetryon beam
+Diagnostic mode
+Diffraction polarimetery scan
+Echolocation
+Encephalographic polygraph scan
+Fluidic sensor diagnostic
+Gamma scan
+Geological scan
+Ico-spectrogram
+Internal sensor
+Inverse tachyon pulse
+Ion trace
+Laser scanner
+LIDAR
+Long range sensor scan
+Magnetic wave survey
+Megalite survey
+Metallurgical analysis
+Metaphasic sweep
+Microtomographic analysis
+Molecular pattern trace
+Multi-polar analysis
+Multimodal reflection sorting
+Multiphasic bioscan
+Multiphasic scan
+Navigational scan
+Non-network sensory stasis
+Nucleonic beam
+Parity trace scan
+Particle beam
+Passive high-resolution series
+Phase spectrum analysis
+Phaser sweep
+Polaron beam
+Proximity scan
+Quantum dating
+Quantum resonance scan
+Quantum scan
+RADAR
+Resonance frequency scan
+Resonance signature
+Scanning pulse
+Self-diagnostic
+SONAR
+Spectral scan
+Spectrographic analysis
+Starling location sweep
+Submolecular scan
+Subspace differential pulse
+Subspace emission scan
+Subspatial transkinetic analysis
+Tachyon scan
+Tachyon sweep
+Tactical analysis
+Warp particle
+Weather scan
+Sensor
+Acoustic relay
+Acquisition sensor
+Adaptive subspace echogram
+Altimeter
+Anabolic photoplaser
+Auditory sensor
+Bajoran tricorder
+Baryon sensor
+Broadband sensor matrix
+Camera
+Chemical identity sensors
+Class-5 intelligence drone
+Coupler prediction scanner
+Crew locator
+Detection grid
+Detronal scanner
+Differential magnetometer
+Dynoscanner
+Electromagnetic scanner
+Electron resonance scanner
+Exographic targeting sensor
+Flow sensor
+Flux coordinating sensor
+Frequency scan detector
+Gamma ray scanner
+Geiger counter
+Gravimetric scanner
+Gravimetric sensor
+Gravitic sensor net
+Graviton telescope
+Infrared sensor
+Interphasic scanner
+Ion chamber
+Jem'Hadar tricorder
+Klingon tricorder
+Laser scanner
+Lateral scanner
+Life sign
+Long range Earth sensor
+Long-range tachyon scanner
+Lunar capsule
+Magnetometer sensor
+Magneton scanner
+Mark 25 warp sensor
+Medical scanner
+Medical tricorder
+Micro-tunneling sensor
+MK-7 scanner
+MK-12 scanner
+Molecular imaging scanner
+Monitoring device
+Motion sensor
+Multiphase buffer
+Myographic scanner
+Navigational sensor
+Neutron densitometer
+Night vision
+Optical transducer
+Orbital sensor platform
+Parametric scanner
+Particle flux detector
+Perimeter grid
+Pheromonic sensor
+Photic sonar
+Photo lock-on
+Planetary sensor array
+Plasma conversion sensor
+Plaxan sensor
+Polaron beam
+Primary sun sensor
+Proximity detector
+Proximity sensor
+Psychotricorder
+Pulmonary scanner
+Quantum beacon
+Radiometer
+Romulan tricorder
+Scanner
+Secondary sun sensor
+Security sensor
+Sensor array
+Sensor beam
+Sensor cluster
+Sensor encoder
+Sensor grid
+Sensor log
+Sensor module
+Sensor pod
+Sensor relay
+Sensor relay emitter
+Sikarian atmospheric sensor
+Solar plasma detector
+Spectrographic analysis
+Spectrometer
+Starfleet tricorder
+Sub-micron imager
+Submicron scanner
+Subspace harmonic monitor
+Tachyon detection grid
+Targeting scanner
+Targeting sensor
+Temporal sensor
+Thermal guidance sensor
+Thermal interferometry scanner
+Tomographic imaging scanner
+Torque sensor
+Trans-spectral imager
+Translinear sensor
+Transpectral sensor array
+Transporter sensor
+Tricorder
+Trident scanner
+Visual sensor
+Weapons scanner
+Ablative generator
+Auto-regenerative shielding
+Celebium shielding
+Cloaking barrier
+Cloaking device
+Covariant shielding
+Defense field
+Deflector grid
+Deflector shield
+Dispersive armor
+Force field
+Gyro-shielding
+Heat shield
+Immersion shielding
+Magnetic shield
+Metaphasic shield
+Metaphysic shield
+Multi-adaptive shielding
+Multi-regenerative security field
+Multi-spatial force field
+Multi-spectrum shielding
+Multiphasic force field
+Multiphasic shield
+Paratrinic shield
+Phase retraction
+Phase-variant frequency
+Reactive armor
+Refractive shielding
+Regenerative shield
+Security net
+Shield
+Shield generator
+Shield inverter
+Shield matrix
+Shield modulator
+Structural integrity field
+Targe
+Temperature control shield
+Temporal shielding
+Type 4 deflector shield
+Unimatrix shielding
+40 Eridani A Starfleet Construction Yards
+Antares Ship Yards
+Baikonur Cosmodrome
+Beta Antares Ship Yards
+Cardassian repair facility
+Copernicus Ship Yards
+Luna Shipyards
+Manora shipyards
+Marin County Starfleet Yards
+McKinley Station
+McKinley type
+Monac shipyards
+Oakland Fleet Yards
+Proxima Maintenance Yards
+Riverside Shipyard
+San Francisco Fleet Yards
+Shipyard
+Skywalker Division
+Tevak shipyards
+Tranquility Base
+Utopia Planitia Fleet Yards
+Spacecraft
+Spaceship
+Starship
+OV-165
+313-C
+Agena target vehicle
+Apollo 11
+Ares IV
+Ares V
+Ariane 1
+Atlas-Agena
+SS Botany Bay
+Charybdis
+Enterprise (OV-101)
+Erstwhile
+Escape pod 10
+Escape pod 17
+Gemini 8
+Gemini capsule
+H-46
+H-47
+H-48
+H-49
+H-50
+H-925
+H-926
+Interceptor One
+Kira's interceptor
+Lazarus' spaceship
+Mercury capsule
+Mercury-Redstone Launch Vehicle
+Orbital 1
+OV
+Rakosa One
+Rocket ship
+Sanction (starship)
+Saturn V
+Space shuttle
+Sphere Builder transport pod
+Vostok 1
+X-15
+Yonada
+Halium experimental station
+Star Station India
+Station Salem-One
+Tycho Base
+Self-sealing stem bolt
+Servo
+Servo-armature
+Sextant
+Shoehorn
+SIMs beacon
+Sizing scanner
+Sledgehammer
+Sonic driver
+Spatula
+Spectral micrometer
+Spinning wheel
+Spoon
+Spork
+Starfleet tricorder
+Stem bolt
+Submicron scanner
+Subnucleonic device
+Subspace phase inverter
+Sundial
+Synchronic meter
+T-9 energy converter
+Targ scoop
+Tea-cart
+Telepresence unit
+Telescope
+Tent
+Test cylinder
+Thermal deflector unit
+Thermal regulator
+Thoron generator
+Tire iron
+Toaster
+Tomographic imaging scanner
+Shapeshifting locket
+Tooth sharpener
+Toothbrush
+Transmuter
+Trap
+Travois
+Tray
+Trick glass
+Tricorder
+Trident scanner
+Tripartite microsealing mechanism
+Trowel
+Tumbler
+Typewriter
+Umbrella
+Universal atmospheric element compensator
+Unnamed engineering tools
+Urn
+Ushaan-tor
+Vat
+Veridium injector
+Verteron array
+Vial
+Virtual Control Device
+Virtual display device
+VISOR
+Visor
+Visual acuity transmitter
+Visual recording device
+Voder
+Voice duplicator
+Vulcan meditation lamp
+Vulcan star charts
+Warp flare
+Whisk
+Wrench
+Wristwatch
+Tool
+Unnamed tools and technology
+Achromatic objective lens
+Alphanumeric sequencer
+Andorian boiler
+Anti-grav
+Anti-grav sled
+Anti-gravity generator
+Antimatter regulator
+Anvil
+Assimilation tubule
+Axe
+Bajoran tricorder
+Barometer
+Barrel
+Belt light
+Binoculars
+Bio-cylinder
+Bio-dampener
+Bio-neural gel pack
+Bipolar torch
+Bottle opener
+Bowl
+Box wrench
+Briefcase
+Butcher knife
+Butterfly net
+Calculation device
+Calculator
+Camera
+Canar
+Candle
+Chain
+Chainsaw
+Chewstick
+Chopstick
+Chronometer
+Clipboard
+Clock
+Coil scanner
+Coil spanner
+Collector
+Compass
+Crowbar
+Crystal ball
+Cutter beam
+Cutting beam
+Decoupler
+Desealer
+Desealing rod
+Devore scanner
+Directional sonic generator
+Drill platform
+Drilling rig
+Drink mixer
+Dualitic inverter
+Duct tape
+Duotronic probe
+EJ-7 interlock
+Electro-dynamic probe
+Electronic scrambler
+Emergency beacon
+Emergency hand actuator
+Emergency transport unit
+Emergency transporter armband
+Emitter module
+EPI capacitor
+Exocomp
+Flare
+Flashlight
+Flux coupler
+Forge
+Fork
+Forklift
+Frying pan
+Fusing piton
+Gag
+Gavel
+Genotron
+Glasses
+Gravimetric scanner
+Gravitic caliper
+Graviton emitter
+Hairpin
+Hammer
+Handcuffs
+Harpoon
+Harpoon gun
+Holofilter
+Holographic imager
+Hyperspanner
+Ice cream scoop
+Image enhancement sequence
+Imager
+Infrared sensor
+Inkwell
+Inscription pen
+Interphasic coil spanner
+Interphasic compensator
+Interphasic scanner
+Iso-modulator
+Isodine coupler
+Isolinear interface
+Isolinear spanner
+Isolitic converter
+Jem'Hadar tricorder
+Key
+Kiln
+Klingon tricorder
+Laser cannon
+Laser cutter
+Laser drill
+Laser micrometer
+Laser welder
+Lever
+Life support belt
+Lighter
+Lightstick
+Lock
+M Series Walkie Stacker
+Maglock
+Magna-spanner
+Magnasite-nitron tablet
+Magnetic probe
+Magneton scanner
+Magnifying glass
+Mass spectrometer
+Mechanical rice picker
+Mesh
+Micro-caliper
+Micro-optic drill
+Micro-resonator
+Microdyne coupler
+Microscope
+Miniature laser
+Mirror
+Mirror machine
+MK-12 scanner
+MK-7 scanner
+Monkey wrench
+Mortae
+Mortar and pestle
+Multidimensional transporter device
+Nail
+Napkin
+Neck manacle
+Needle
+ODN recoupler
+Odo's bucket
+Optronic coupler
+Organic circuitry
+Oven
+PADD
+Palm beacon
+Parachute
+Parametric scanner
+Parasol
+Pen
+Pencil
+Pencil sharpener
+Phase coil resonator
+Phase compensator
+Phase decompiler
+Phase modulator
+Phaser bore
+Phaser drill
+Photonic field generator
+Pickaxe
+Picnic basket
+Pitcher
+Pitchfork
+Plasma canister
+Plasma extinguisher
+Plasma torch
+Platter
+Pleenok
+Pocket knife
+Pocket watch
+Polarity scanner
+Power tool
+Synaptic processor
+Pulley
+Pulsatel lockseal
+Pulse drill
+Quantum flux regulator
+Radiation meter
+Radioseptic
+Razor
+Remote control
+Reverse-ratcheting routing planer
+Romulan tricorder
+Rope
+Rubber band
+Sabre saw
+Saltah'na clock
+Saw
+Scanner
+Scissors
+Scope
+Seismic regulator
+Self-sealing stem bolt
+Servo
+Servo-armature
+Sextant
+Shoehorn
+SIMs beacon
+Sizing scanner
+Sledgehammer
+Sonic driver
+Spatula
+Spectral micrometer
+Spinning wheel
+Spoon
+Spork
+Starfleet tricorder
+Stem bolt
+Submicron scanner
+Subnucleonic device
+Subspace phase inverter
+Sundial
+Synchronic meter
+T-9 energy converter
+Targ scoop
+Tea-cart
+Telepresence unit
+Telescope
+Tent
+Test cylinder
+Thermal deflector unit
+Thermal regulator
+Thoron generator
+Tire iron
+Toaster
+Tomographic imaging scanner
+Shapeshifting locket
+Tooth sharpener
+Toothbrush
+Transmuter
+Trap
+Travois
+Tray
+Trick glass
+Tricorder
+Trident scanner
+Tripartite microsealing mechanism
+Trowel
+Tumbler
+Typewriter
+Umbrella
+Universal atmospheric element compensator
+Unnamed engineering tools
+Urn
+Ushaan-tor
+Vat
+Veridium injector
+Verteron array
+Vial
+Virtual Control Device
+Virtual display device
+VISOR
+Visor
+Visual acuity transmitter
+Visual recording device
+Voder
+Voice duplicator
+Vulcan meditation lamp
+Vulcan star charts
+Warp flare
+Whisk
+Wrench
+Wristwatch
+Transporter
+Abort control circuit
+Annular confinement beam
+Autosequencer
+Biofilter
+Blind beam-out
+Cargo transporter
+Coadjutor engagement
+Command XJL
+Coordinates
+Electromagnetic focusing
+Emergency transport unit
+Emergency transporter
+Energizing coil
+Folded-space transporter
+Gravitational compensator
+Heglenian shift
+Heisenberg compensator
+Integration matrix
+Integration parameters
+Internal transporter node
+Inverse phasing
+Inverter
+Mark V transporter
+Mark VI transporter
+Mark VII transporter
+Materializer
+Matter-energy conversion matrix
+Molecular imaging scanner
+Molecular transporter
+Multidimensional transporter device
+Near-warp transport
+Particle lock
+Pattern buffer
+Pattern degradation
+Pattern enhancer
+Phase coil
+Phase discriminator
+Phase inducer
+Phase transition coil
+Portable transporter
+Portable transwarp beaming device
+Quantum resonance oscillator
+Rematerialization subroutine
+Site-to-site transport
+Site-to-site transport interlock
+Site-to-site transporter
+Spatial trajector
+Sub-quantum transporter
+Subspace transporter
+System interlock
+Targeting scanner
+Temporal transport beacon
+Temporal transporter
+Translocator
+Transport inhibitor
+Transporter array
+Transporter chamber
+Transporter chamber (Starfleet)
+Transporter circuit
+Transporter Code 14
+Transporter console
+Transporter duplicate
+Transporter module
+Transporter oscillator
+Transporter platform
+Transporter protocol 5
+Transporter resequencer
+Transporter scrambler
+Transporter sensor
+Transporter suspension
+Transporter unit ionizer
+Transwarp
+Transwarp beaming
+NCC-1701/R6
+Aircar
+Aircraft
+Airplane
+Alixia (carriage)
+Aptera Typ-1
+Argo (buggy)
+Balloon
+Bicycle
+Buggy
+Car
+Clipper ship
+Continental transport
+Coridan aircraft
+Desert flyer
+Forklift
+Grenthemen water hopper
+Ground assault vehicle
+Hearse
+Helicopter
+Hopper
+Hospital Ship 4-2
+Hot-air balloon
+Hovercruiser 924
+Hydro-skimmer
+Ice cutter
+Ironclad
+Jet
+Jupiter 8
+Kolaran armored car
+Kolaran buggy
+Kumari (ice cutter)
+Mag-lev carriage
+Mintonian sailing ship
+Orbital glider
+Race car
+Scouter-gig
+Sedan
+Ship
+Shuttlebus
+Skimmer
+Tank
+Torothan cruiser
+Train
+Tricycle
+Truck
+Vedala ground vehicle
+Redstone missile
+Regalian phaser rifle
+Regenerative phaser
+Remat detonator
+Repulsor beam
+Romulan mind probe
+Romulan mine
+Rostrum
+Sabak's armor
+Safety interlock
+Self-destruct device
+Self-replicating mine
+Series 5 long-range tactical armor unit
+Sonic disruptor
+Spatial charge
+Spatial torpedo
+Stake
+Stratospheric torpedo
+Stun baton
+Stun setting
+Stunstick
+Subatomic disruptor
+Subnucleonic beam
+Subnucleonic device
+Subspace mine
+Subspace proximity detonator
+Subspace warhead
+Subspace weapon
+System-5 disruptor
+T-90 tank
+Tank
+Tantalus field
+Target discriminator
+Temporal disruptor
+Thermal sweep
+Thermokinetic explosion
+Thermolyte explosive
+Thermonuclear missile
+Tholian web
+Thoron shock emitter
+Thought maker
+Tire iron
+Titan II
+Torpedo
+Tox Uthat
+Transgenic weapon
+Transphasic torpedo
+Tri-phasic emitter
+Tricobalt
+Tricobalt device
+Tricobalt satellite
+Trilithium weapon
+Ultritium concussion shell
+V-2 rocket
+Varaxian LM-7
+Variable geometry detonator
+Varon-T disruptor
+Verteron array
+Warhead
+Weapons array
+X-ray laser
+Xindi bioweapon
+Xindi weapon
+Xindi-Insectoid rifle
+Xindi-Reptilian ray gun
+2K16 Kub
+Aceton assimilator
+Advanced long-range torpedo
+Agonizer
+Agony booth
+Angel I execution device
+Anti-personnel mine
+Antimatter charge
+Antimatter mine
+Antimatter missile
+Antimatter torpedo
+Antimatter warhead
+Antimatter weapon
+Antiphoton pulse
+Antiproton beam
+Aphasia device
+Artillery
+Artonian laser
+Assault probe
+Atomic weapon
+Auto-phaser interlock
+Automatic bridge defense system
+Bajoran phaser rifle
+Bayonet
+Bio-molecular warhead
+Biogenic charge
+Biogenic weapon
+Biological weapon
+Biomagnetic trap
+Blast suppressor
+Bomb
+Booby trap
+Boolean gun
+Boomerang
+Borg missile
+Bullet
+Cannon
+Carnelian minefield
+Chroniton torpedo
+Cobalt bomb
+Cobalt fusion warhead
+Cobalt-thorium device
+Compressed teryon beam weapon
+Compression phaser rifle
+Concussive charge
+Covariant phaser pulse
+Crimson force field
+Cutlass
+Death ray
+Defensive system
+Depth charge
+Directed energy weapon
+Directional beam
+Disintegration station
+Dispersion frequency
+Disruptor
+Disruptor array
+Disruptor bank
+Disruptor bomb
+Disruptor burst
+Disruptor cannon
+Disruptor snare
+Doomsday machine
+Dopterian interceptor
+Echo Papa 607
+Ekosian missile
+EM pistol
+EM weapon
+Energy beam
+Energy dissipator
+Expanding energy pulse
+Fat Man
+Field burst
+Firing switch
+Forced plasma beam
+Fusion bomb
+Galor class phaser bank
+Gladius
+Gravimetric charge
+Gravimetric torpedo
+Gravitic mine
+Graviton beam
+Grenade launcher
+Hand phaser
+Harvester
+Heat beam
+Heater
+Houdini
+Hunter probe
+Hydrogen bomb
+Hypothermic charge
+Isokinetic cannon
+Isolytic burst
+Katana
+Kellerun assault rifle
+Kill setting
+Kinetic detonator
+Krenim weapon ship
+Kuttar
+Laser cannon
+Laser weapon
+Locator bomb
+Long sword
+Lysian sentry pod
+Magnetic pulse
+Magnetometric guided charge
+Mars Defense Perimeter
+Merculite rocket
+Metagenic weapon
+Metreon cascade
+Mine
+Minefield
+Missile
+Missile launcher
+Modulating plasma pulse
+Molotov cocktail
+Mortar (weapon)
+Multi-kinetic neutronic mine
+Multi-polar charge
+Multiphasic emitter
+Mutagenic retrovirus
+Nadion pulse
+Nerve gas
+Neural neutralizer
+Neurocine gas
+Neutral particle weapon
+Neutronic weapon
+Nuclear missile
+Nuclear warhead platform
+Nucleonic charge
+Optronic pulse
+Optronic weapons array
+Orbital weapon platform
+Organic explosive
+Parametric frequency
+Particle accelerator
+Particle phaser
+Particle rifle
+Particle weapon
+Phage torpedo
+Phase cannon
+Phase pulse
+Phase weapon
+Phase-resonant pulse
+Phased ion cannon
+Phased polaron beam
+Phaser
+Phaser array
+Phaser bank
+Phaser cannon
+Phaser emitter
+Phaser pulse
+Type 1 phaser
+Type 2 phaser
+Type 3 phaser
+Type 4 phaser
+Type 8 phaser
+Photon charge
+Photon pulse
+Photon torpedo
+Photonic burst
+Photonic charge
+Photonic disruptor
+Photonic emitter
+Photonic missile
+Photonic pulse
+Photonic torpedo
+Photonic warhead
+Photonic weapon
+Planet killer
+Planetary defense system
+Plasma bomb
+Plasma bullet
+Plasma cannon
+Plasma charge
+Plasma phaser
+Plasma rifle
+Plasma torpedo
+Plasma warhead
+Plasma wave
+Plasma weapon
+Polaron emitter
+Prefire chamber
+Projected stasis field
+Projectile weapon
+Proton beam
+Proton discharger
+Proximity blast
+Psionic resonator
+Pulse cannon
+Pulse compression wave
+Pulse laser
+Pulse mine
+Pulse phased weapon
+Pulse wave torpedo
+Pulsed phase cannon
+Q weapon
+Quantum resonance charge
+Quantum torpedo
+Radiation pulse
+Redstone missile
+Regalian phaser rifle
+Regenerative phaser
+Remat detonator
+Repulsor beam
+Romulan mind probe
+Romulan mine
+Rostrum
+Sabak's armor
+Safety interlock
+Self-destruct device
+Self-replicating mine
+Series 5 long-range tactical armor unit
+Sonic disruptor
+Spatial charge
+Spatial torpedo
+Stake
+Stratospheric torpedo
+Stun baton
+Stun setting
+Stunstick
+Subatomic disruptor
+Subnucleonic beam
+Subnucleonic device
+Subspace mine
+Subspace proximity detonator
+Subspace warhead
+Subspace weapon
+System-5 disruptor
+T-90 tank
+Tank
+Tantalus field
+Target discriminator
+Temporal disruptor
+Thermal sweep
+Thermokinetic explosion
+Thermolyte explosive
+Thermonuclear missile
+Tholian web
+Thoron shock emitter
+Thought maker
+Tire iron
+Titan II
+Torpedo
+Tox Uthat
+Transgenic weapon
+Transphasic torpedo
+Tri-phasic emitter
+Tricobalt
+Tricobalt device
+Tricobalt satellite
+Trilithium weapon
+Ultritium concussion shell
+V-2 rocket
+Varaxian LM-7
+Variable geometry detonator
+Varon-T disruptor
+Verteron array
+Warhead
+Weapons array
+X-ray laser
+Xindi bioweapon
+Xindi weapon
+Xindi-Insectoid rifle
+Xindi-Reptilian ray gun

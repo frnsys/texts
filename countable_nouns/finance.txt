@@ -1,0 +1,319 @@
+ABCP
+acceptance
+accepting house
+accumulation
+accumulator
+actual
+affinity card
+aftermarket
+air loan
+alpha
+American option
+anaconda mortgage
+anticipation
+arb
+arbitrage
+arbitrage pricing theory
+arbitrageur
+attestation
+auction call
+audit
+Aussie
+aval
+axe
+backwardation
+bagholder
+banker's acceptance
+banker's dozen
+basis point
+bear
+bear market
+bear spread
+Bermudan option
+beta
+big figure
+blind pool
+bond
+bond premium
+bondholder
+book value
+bookbuild
+boom and bust
+boomlet
+bounced cheque
+bridge loan
+Brigitte Bardot
+buck
+bucket shop
+bull
+bull market
+bullet
+bullet loan
+buydown
+buyout
+cable
+CAG
+cagr
+calendar spread
+call
+call value
+callable
+callable bond
+cap
+capital
+capital asset
+capital gain
+capital loss
+capital market
+capital market line
+capital structure
+caplet
+cash instrument
+cash position
+CDO-squared
+chartist
+clearance
+clearing
+cliquet
+closed-end fund
+collateralized debt obligation
+collateralized loan obligation
+collective investment scheme
+commodity exchange
+common stock
+commute
+compound interest
+conditionality
+conduit
+consol
+contagion
+contango
+contingent claim
+contrarian
+conventional
+convertible
+convertible security
+corner
+corporate
+cost of money
+cost price
+cost-benefit analysis
+counterparty
+coupon
+credit crunch
+credit default option
+credit default swap
+credit event
+credit line
+credit rating
+credit report
+credit risk
+credit score
+creditor
+CTR
+day count convention
+day trade
+day trader
+debenture
+debt instrument
+debtholder
+debtor in possession
+default
+deposit
+depositum
+derivative
+derivative instrument
+digital
+director's loan
+discount rate
+distribution
+dividend
+dividend equilisation reserve
+double-dip
+downtick
+account
+account book
+account receivable
+accountancy
+accountant
+accounting machine
+accounting profit
+accrual
+accrue
+accumulation
+age
+amortization
+AR
+articulation
+asset
+auditee
+bad debt
+balance
+balance sheet
+basis
+bottom line
+BS
+capital account
+capital asset
+capital stock
+capital surplus
+carryback
+carryforward
+cash flow
+contra
+cost center
+cost centre
+cost objective
+cost of goods sold
+cost overrun
+credit
+current asset
+deferral
+depreciation
+elimination
+equity
+expense account
+FIFO
+final account
+financial year
+fiscal year
+fixed asset
+fixed cost
+flow variable
+folio
+footing
+general ledger
+goodwill
+gross profit
+impairment
+income statement
+industrial output
+intangible asset
+ledger
+liability
+line item
+mark to market
+mark-to-market
+material
+month to date
+net operating income
+nominal ledger
+NRI
+operating expense
+overhead
+post
+proration
+provision
+purchase price
+reconciliation
+reimbursement
+revaluation
+revenue
+ROE
+ROI
+sales ledger
+sales profit
+stock variable
+subaccountant
+subvariance
+sundry
+suspense account
+tangible asset
+tax lot
+top line
+total loss
+trial balance
+underrun
+upside-down income statement
+variable cost
+work in progress
+write-off
+writedown
+year to date
+accommodation bill
+account
+ACH
+ADB
+allonge
+ATM
+automated teller machine
+automatic teller machine
+autoteller
+bad bank
+bank account
+bank cheque
+bank transfer
+banker's acceptance
+banker's dozen
+bill of exchange
+building society
+bullet
+call
+cash machine
+cashpoint
+central bank
+chargeback
+cheque card
+Christmas club
+clearance
+clearing
+commercial bank
+compound interest
+credit reference
+credit transfer
+credit union
+daylight overdraft
+demand deposit
+deposit
+deposit contract
+DOSRI
+drawer
+drop
+evergreen
+extension
+FED
+float
+FRB
+impound
+inside lag
+installment loan
+joint-stock bank
+kite
+kiter
+kiting
+letter of credit
+line of credit
+loan
+low-doc loan
+microcredit
+microloan
+moneyness
+monoline
+negotiable instrument
+overdraft
+overdraw
+passbook
+payment order
+PITI payment
+pre-packaged bankruptcy
+reserve bank
+shadow bank
+shadow banking system
+smurf
+sort code
+stress test
+subprime
+trade acceptance
+value date
+wire transfer
+zombie bank
+buyout
+fill or kill
+free float
+hedge fund
+market order
+profit warning
+selloff
+stock market
+stop loss order
+stuckholder

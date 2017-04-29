@@ -1,0 +1,100 @@
+antireplay
+bisimilar
+bursty
+case dependent
+case insensitive
+case sensitive
+case-dependent
+case-sensitive
+decidable
+immediate
+interactive
+level
+linearithmic
+memoizable
+modal
+non-deterministic
+nondeterministic
+pageable
+partial
+pathological
+scalar
+signed
+stateless
+submachine
+switch
+tractable
+admissible
+multiagent
+optimal
+asymmetric
+autokey
+bit
+blindable
+computationally secure
+foursquare
+key
+malleable
+MD5-summed
+monoalphabetic
+multicollision
+nonce
+plain text
+preshared
+salt
+semiweak
+signature
+symmetric
+unkeyed
+unsalted
+buzzword compliant
+orthogonal
+robust
+standards compliant
+bitonic
+co-recursively enumerable
+collisionless
+complete
+computable
+context-free
+denormal
+denormalized
+distfix
+eager
+first-fit
+functional
+functionally complete
+grammarless
+imperative
+in-order
+inorder
+lazy
+midrise
+midriser
+midtread
+mixfix
+non-terminal
+nonblocking
+nonidling
+NP-complete
+NP-easy
+NP-equivalent
+NP-hard
+P-complete
+parameterless
+post-order
+postorder
+pre-order
+preorder
+quantum
+r.e.
+recursive
+recursively enumerable
+semi-decidable
+splay
+subnormal
+superrecursive
+terminal
+transrecursive
+Turing complete
+undecidable

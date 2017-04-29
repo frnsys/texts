@@ -1,0 +1,252 @@
+8.3
+8514/A
+8514/Adapter
+abandonware
+abstraction
+access
+accessibility
+addressing
+ADT
+advice
+adware
+agentspace
+alchemy
+algorithmics
+alpha blending
+Alt Gr
+AltGr
+angelic non-determinism
+annoyware
+antibugging
+AOP
+application software
+AR
+architecture
+astroinformatics
+astrostatistics
+ATA
+atomicity
+attachment
+auto-reply
+autoaway
+autoblock
+autoboxing
+alpha
+antialiasing
+billboarding
+brush
+bump mapping
+cel shading
+clip
+clipmapping
+deep color
+deringing
+desktop publishing
+distance fog
+dither
+glenzing
+Gouraud shading
+high color
+image processing
+immediate mode
+lightmapping
+mipmapping
+multisampling
+onion skinning
+palettization
+Perlin noise
+pixel art
+plasma
+poly
+pop-in
+radiosity
+ray casting
+ray marching
+ray tracing
+retained mode
+retopology
+splatting
+tearing
+true color
+voxelization
+z-culling
+z-fighting
+Cat 5
+computer architecture
+core
+flash memory
+volatile memory
+bioinformatics
+brute force
+burstiness
+combinatory logic
+complexity theory
+computability theory
+computation tree logic
+computational linguistics
+computer engineering
+computer science
+computing
+contravariance
+denotational semantics
+halting problem
+insertion sort
+lexical analysis
+machine code
+mathematical semantics
+maximax
+memoization
+minimin
+ontology
+OR
+pattern matching
+polymorphism
+pruning
+rope
+semiautomaton
+space complexity
+test-driven development
+time complexity
+unification
+computer security
+phishing
+social engineering
+spearphishing
+autojoin
+big data
+data mining
+fifth normal form
+first normal form
+referential integrity
+demomaking
+namevoting
+plasma
+scrolltext
+chrome
+control
+draggability
+focus
+interaction design
+menuing
+metaphor
+multiselection
+notification area
+rubberbanding
+snap
+base memory
+1FTR
+access
+ad inventory
+adminhood
+alt text
+ana
+animutation
+ASCII art
+autojoin
+awesome
+bacn
+banhammer
+banner blindness
+bitsquatting
+blog
+blogebrity
+blogware
+brandjacking
+broadband
+brochureware
+browsewrap
+cable internet
+capslock
+catfish
+catfishing
+chatiquette
+chatspeak
+chatter
+click fraud
+click-through
+clickbait
+content filtering
+C sharp
+code-behind
+gamerscore
+anycast
+anycasting
+bit-count integrity
+distance vector
+flow control
+goodput
+IP
+link state
+loopback
+SIPRNET
+source routing
+TTL
+ADT
+advice
+antibugging
+autoboxing
+autoflush
+bare metal
+binary
+body
+boxing
+call by reference
+call by value
+call-by-future
+call-by-name
+call-by-need
+call-by-reference
+call-by-value
+Caml
+case
+case sensitivity
+char
+class
+code
+code-behind
+coercibility
+computer programming
+concatenation
+concern
+const correctness
+constness
+containership
+CTFE
+cuckoo hashing
+dead code
+declarative programming
+defunctionalization
+DIP
+duck typing
+Duff's device
+dynamic binding
+dynamic typing
+early binding
+evil
+extreme programming
+feature envy
+fold
+freestore
+functional programming
+future
+garbage collection
+generic programming
+gold
+announcementware
+compartmentalization
+crash
+data hiding
+edgeware
+ESC
+forward compatibility
+Hollywood principle
+industry
+information hiding
+MBT
+multiton
+PACS
+pass by reference
+pass-by-reference
+PHP
+PLA
+floorplanning

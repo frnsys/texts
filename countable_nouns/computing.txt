@@ -1,0 +1,984 @@
+A20 gate
+A2S
+abend
+abort
+About box
+absolute address
+absolute assembler
+absolute code
+absolute instruction
+absolute loader
+abstract
+abstract data type
+abstract interface
+abstraction
+accelerated graphics port
+accelerator
+accelerator key
+acceptance test
+access
+access control list
+access time
+access violation
+accounting machine
+acknowledgement
+acknowledgment
+ACL
+actuator
+ad hocery
+add-in
+address
+address bar
+address book
+address of record
+address space
+addressability
+addressing
+admin
+administrator
+adoption
+ADT
+advice
+affinity
+agent
+agentspace
+agnostic
+air gap
+airwall
+alchemy
+alias
+alist
+alpha version
+alt key
+alternation
+ambifix
+analyst
+analytical engine
+angle bracket
+anigif
+annotation
+annoybot
+anonymous pipe
+antivirus
+API
+APLer
+app
+append
+appender
+applet
+application
+application domain
+application program
+application programming interface
+applistructure
+AR
+archdevil
+Archie
+architecture
+arg
+artboard
+artifact
+artificial intelligence
+ASA character
+aspect
+aspect-oriented language
+aspect-oriented programming language
+assembly
+assembly language
+assertion
+assign
+assignment
+associative array
+astral plane
+ATM
+atom
+atomicity
+attachment
+attribute
+audioboard
+augmented reality
+auth
+authentication
+authoring program
+autoblock
+autochanger
+autocode
+Apple Mac
+Hackintosh
+iMac
+iPhone
+iPod
+logic board
+Mac
+MacBook
+Machead
+Mactard
+splat
+windoid
+addressability
+alpha
+alpha channel
+ambiance
+antishadow
+backface
+bake
+bezier
+bilevel
+billboard
+bit depth
+bob
+brush
+bundle adjustment
+canvas
+caustic
+clip
+colormap
+edgel
+feather
+fillrate
+flood fill
+fragment shader
+Gouraud shading
+guard band
+heightmap
+hit point
+hitbox
+hypertexture
+isophote
+isosurface
+lathe
+lightmap
+lignel
+Mandelbox
+Mandelbulb
+mask
+mesh
+metaball
+metasurface
+microfacet
+mipmap
+outcode
+palette swap
+pixel shader
+pixmap
+plasma
+pointel
+poly
+polycount
+polygon mesh
+polyline
+quad
+radiosity
+ragdoll
+raycaster
+render
+renderer
+rotozoomer
+RTT
+scenegraph
+seed fill
+shadebob
+shader
+spacecut
+splat
+splat map
+splatting
+sprite
+spryte
+stencil buffer
+superpixel
+surfel
+tearing
+texel
+texture
+texture map
+texturizer
+tilemap
+tileset
+tri
+Utah teapot
+varying
+vertex
+viewport
+voxel
+voxelization
+voxmap
+wireframe
+z-buffer
+z-order
+add-on
+arithmetic logic unit
+bus bridge
+CD player
+central processing unit
+coprocessor
+core
+CPU
+Data Carrier Equipment
+Data Circuit-Terminating Equipment
+Data Communications Equipment
+data stick
+data terminal equipment
+DIMM
+dongle
+electro-mechanical computer
+flash drive
+floating-point unit
+floppy disk
+floppy disk drive
+floppy drive
+hard drive
+home computer
+I²C
+laptop
+mainframe
+MDI
+microcomputer
+microprocessor
+minicomputer
+motherboard
+multiprocessor
+peripheral
+processor
+SIMM
+sound card
+video card
+A*
+access token
+accumulator
+ad-hoc polymorphism
+add
+adicity
+algorithm
+alphabet
+anamorphism
+arity
+assert
+bag of words
+bifurcation
+buffer overflow
+built-in type
+burstiness
+catamorphism
+chatbot
+closure
+codebook
+combinator
+composite type
+computable function
+computation history
+concave function
+concurrency
+contravariance
+convex function
+data structure
+decidability
+declarer
+decompiler
+delimiter
+denotation
+flag
+fork
+formal grammar
+higher-order function
+hylomorphism
+impure name
+inclusion polymorphism
+insertion sort
+interactive
+isomorphism
+item set
+kernelization
+least significant byte
+level
+Levenshtein distance
+library
+linker
+loop invariant
+loose coupling
+modal
+most significant byte
+multiply
+MWE
+non-determinism
+nondeterminism
+norm
+ontology
+overload
+parametric polymorphism
+partial
+performance
+persistence
+polymorphism
+pre-alpha version
+primitive type
+prune
+pruning
+pumping lemma
+pure name
+reap
+relative address
+release candidate
+release version
+replay attack
+rewriting
+rope
+scalar
+schedule
+scheduler
+sentinel
+set function
+software development lifecycle
+software development process
+string distance
+subhistory
+submachine
+subprocedure
+subroutine
+subtree
+supercombinator
+switch
+synchronization domain
+time complexity
+trie
+Turing degree
+underway
+unification
+white space
+word
+firecall
+firewall
+rootkit
+security hole
+smudge attack
+spray
+Trojan horse
+cardinality
+conceptual schema
+entity-relationship diagram
+antijoin
+BLOB
+bookmark
+candidate key
+Cartesian product
+CLOB
+clustered index
+cross join
+crow's foot
+curation
+cursor
+data model
+database management system
+DB
+equijoin
+firehose cursor
+GTID
+hierarchical database
+identifier
+index
+join
+keyset
+LOB
+nonclustered index
+normal form
+partition
+query
+RDBMS
+relation
+relational database
+relational model
+relvar
+savepoint
+schema
+scrub
+second normal form
+semijoin
+showplan
+snowflake
+subquery
+subtransaction
+superkey
+surrogate key
+synonym
+tablespace
+third normal form
+view
+4ktro
+bob
+chippy
+copperbar
+copyparty
+cracktro
+demo
+democoder
+demogroup
+demomaker
+demoparty
+demoscene
+demoscener
+dentro
+eurodemo
+graphician
+intro
+invitro
+megademo
+metaball
+minidemo
+musicdisk
+partyplace
+plasma
+rip
+rotozoomer
+scrolltext
+shadebob
+spacecut
+trackmo
+votesheet
+VU meter
+address bar
+blur
+button
+caret
+carousel
+check box
+checkbox
+clickable
+combo box
+container
+context menu
+control
+cursor
+deskband
+dialogue box
+dock
+dropdown
+dropdown list
+explorer
+flexbox
+floating palette
+flyout
+focus
+ghost
+gridline
+grip
+gripper
+group box
+hot spot
+I-beam
+jump list
+list box
+listview
+MDI
+megamenu
+menu bar
+metaphor
+option
+palette
+palette window
+pane
+picker
+picklist
+picture box
+pie menu
+pin
+pop-up menu
+progress bar
+quasimode
+radio button
+redraw
+ribbon
+sash
+slider
+snap
+snapline
+spinbox
+spinner
+splash screen
+splitter
+Start button
+status bar
+subcontrol
+submenu
+subpalette
+subview
+subwindow
+tab
+tab control
+tab page
+text box
+throbber
+toolbar
+tooltip
+trackbar
+tray
+tree
+user control
+virtual desktop
+widget
+windoid
+window
+workspace
+zoom box
+APLer
+green screen
+greenscreen
+IBM
+IBM PC
+IBMer
+image copy
+personal computer
+token ring
+404 page
+4channer
+4rum
+access
+ACK
+address
+address of record
+admin
+advice animal
+aggregator
+air gap
+alt
+alt text
+ambient findability
+an hero
+ana
+anchor
+animutation
+anonymizer
+ant
+antispammer
+AOLer
+arachnerd
+asher
+asshelmet
+ATM
+autocancel
+autokill
+backlink
+baiter
+banner
+banner ad
+banner exchange
+barnstar
+bashtag
+bbl
+beta
+blackhole
+blawg
+blidget
+blind carbon copy
+blinkie
+blockchain
+blockquote
+blog
+blogebrity
+blogger
+blogmaster
+blogosphere
+blogpost
+blogring
+blogroll
+blogsite
+blue link
+BOF
+BOFH
+bogon
+boi
+bookmarklet
+booru
+bot herd
+botherder
+botmaster
+botnet
+botter
+bounce
+bouncer
+brand avatar
+breadcrumb
+broadband
+browsewrap
+/b/tard
+bump
+bun
+cable modem
+caching proxy
+camwhore
+cancel
+cancelbot
+capslock
+carbon copy
+carousel
+cartooney
+cascade
+catfish
+cdesign proponentsist
+CGI
+chan
+channel
+chanop
+chat room
+chatbox
+chatlog
+chatter
+chicklet
+chill girl
+chop
+click-through
+clicko
+clique
+cloak
+clothist
+cluestick
+co-citation
+cobweb
+COLA
+COLAtard
+colophon
+Common Gateway Interface
+community
+complexity-hiding proxy
+content farm
+content filtering
+cookie jar
+copy-on-write proxy
+cosysop
+counter
+courier
+courtesy copy
+crapplet
+crapplication
+cryptocurrency
+CTCP
+assembly
+blue screen
+blue screen of death
+defenestration
+gamerscore
+Gamerscore
+GDI
+GPF
+homegroup
+MCP
+Microsoft
+Microsoftie
+MM
+PowerPoint
+red ring of death
+safe mode
+UAE
+Windows key
+wintard
+X-box
+Xbox
+XBox
+1MM
+1MMS
+access point
+acknowledgement
+acknowledgment
+aggregation
+bandwidth
+base station
+encapsulation
+evil twin
+frame
+glue record
+header
+hot spot
+IP
+kilobyte
+local ring
+loopback
+MAC address
+middlebox
+network topology
+packet
+ping
+pong
+proxy
+RIP
+service set identifier
+star ring
+star topology
+subinterface
+subnet
+supranet
+switch
+TFTP
+throughput
+trailer
+TTL
+tunnel
+tunnel broker
+zone
+1GL
+2GL
+3GL
+4GL
+5GL
+activation record
+actual parameter
+ADT
+advice
+application programming interface
+arg
+argument
+array
+aspect
+assembler
+assign
+association list
+atom
+attribute
+base class
+binary
+binder
+binding
+bitfield
+bitflag
+bitset
+blackhole
+body
+bool
+boxing
+break
+callback
+caller
+case
+case sensitivity
+case-sensitivity
+castable
+char
+checked exception
+class
+classpath
+code
+code block
+code monkey
+code smell
+comment
+computer language
+computer programming
+concatenation
+concept
+concern
+conditional
+conditional assembly language
+const
+constructor
+containership
+continuation passing style
+continuation-passing style
+continue
+contravariant
+control structure
+convenience class
+convenience method
+coroutine
+counter
+covariance
+covariant
+critical section
+curly brace
+curly bracket
+curly-braces language
+curly-bracket language
+cursor
+debug mode
+debugger
+declarator
+defensive programming
+define
+definition
+defunctionalization
+dependee
+depender
+destructor
+dialect
+DIP
+directed acyclic word graph
+dispatch table
+dollar sign
+dot release
+double
+downcall
+dummy
+eigenclass
+empty
+encapsulation
+encloser
+enum
+environment
+escape
+esolang
+evaluation
+event-based programming
+event-driven programming
+evil
+exit program
+expando
+expression
+factory
+fence
+finalizer
+first-class citizen
+first-class entity
+first-class object
+first-class value
+fixture
+float
+flower box
+fold
+folding
+for loop
+form
+formal parameter
+free
+free variable
+friend
+future
+garbage collection
+garbage collector
+generator
+getter
+glob
+global variable
+God class
+God object
+gold
+goroutine
+abstract class
+abstract factory class
+abstract factory pattern
+abstract method
+abstract type
+access modifier
+access specifier
+adaptee
+adapter pattern
+add-on
+anonymous class
+architectural pattern
+asset
+backward compatibility
+bean
+behavioral pattern
+behavioural pattern
+bridge pattern
+broken source
+builder pattern
+builtin
+class adapter pattern
+class invariant
+class variable
+clickwrap license
+comment
+compartmentalization
+composite pattern
+compound pattern
+concurrency pattern
+crash
+CRT
+cutline
+data transfer object
+DDO
+decorator pattern
+DI
+distro
+DTO
+edgeware
+ERP
+ESC
+event-driven architecture
+facade pattern
+façade pattern
+factory class
+factory method pattern
+factory pattern
+final class
+flag day
+free
+front controller pattern
+growl
+Hollywood principle
+hook
+identifier
+industry
+instance variable
+iterator pattern
+lazy initialisation pattern
+local class
+look and feel
+marker interface
+marker interface pattern
+marshalling
+MBT
+MDI
+member field
+member variable
+message-driven architecture
+messaging pattern
+model-based design
+model-based testing
+model-driven architecture
+model-driven testing
+model-view-controller
+model-view-presenter
+module pattern
+MP3
+MSYS
+multiton pattern
+MVP
+name-based type system
+nominal type system
+nominative type system
+object adapter pattern
+object graph
+operating system
+OS
+pattern language
+PDE
+PDO
+PLA
+point release
+portable executable
+alignment diagram
+bar chart
+block diagram
+cartoon
+class diagram
+concept map
+data flow diagram
+diagram
+drawing
+entity relationship diagram
+entity-relationship diagram
+ER diagram
+fate map
+Feynman diagram
+floor plan
+flow chart
+food pyramid
+graph
+Hertzsprung-Russell diagram
+histogram
+image
+Ishikawa diagram
+logic diagram
+map
+mind map
+nomogram
+phase diagram
+picture
+pie chart
+plot
+representation
+schema
+schematic
+storyboard
+Venn diagram
+visual
+visualization
+wiring diagram

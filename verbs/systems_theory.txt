@@ -1,0 +1,13 @@
+complex
+feedback
+generalize
+input
+interface
+overflow
+process
+scheme
+feedback
+buffer
+inventory
+JIT
+stock

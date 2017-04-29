@@ -1,0 +1,264 @@
+A*
+access token
+accumulator
+ad-hoc polymorphism
+add
+adicity
+algorithm
+alphabet
+anamorphism
+arity
+assert
+bag of words
+bifurcation
+buffer overflow
+built-in type
+burstiness
+catamorphism
+chatbot
+closure
+codebook
+combinator
+composite type
+computable function
+computation history
+concave function
+concurrency
+contravariance
+convex function
+data structure
+decidability
+declarer
+decompiler
+delimiter
+denotation
+flag
+fork
+formal grammar
+higher-order function
+hylomorphism
+impure name
+inclusion polymorphism
+insertion sort
+interactive
+isomorphism
+item set
+kernelization
+least significant byte
+level
+Levenshtein distance
+library
+linker
+loop invariant
+loose coupling
+modal
+most significant byte
+multiply
+MWE
+non-determinism
+nondeterminism
+norm
+ontology
+overload
+parametric polymorphism
+partial
+performance
+persistence
+polymorphism
+pre-alpha version
+primitive type
+prune
+pruning
+pumping lemma
+pure name
+reap
+relative address
+release candidate
+release version
+replay attack
+rewriting
+rope
+scalar
+schedule
+scheduler
+sentinel
+set function
+software development lifecycle
+software development process
+string distance
+subhistory
+submachine
+subprocedure
+subroutine
+subtree
+supercombinator
+switch
+synchronization domain
+time complexity
+trie
+Turing degree
+underway
+unification
+white space
+word
+artificial intelligence
+cluster analysis
+expert system
+insight
+neural network
+ply
+wordnet
+antidictionary
+concordance
+pertainym
+atomic authorization
+avalanche effect
+bit
+black chamber
+block
+Bob
+cilly
+cipher
+cleartext
+code
+codebook
+codeword
+crib
+cryptography
+CSPRNG
+decode
+digest
+encryption
+fractionation
+integrity
+IP
+key
+key exchange
+keyholder
+keypair
+keyphrase
+keyring
+keyserver
+keyspace
+keystream
+knapsack
+malleability
+Mallet
+nonce
+oblivious transfer
+one-time pad
+pad
+pigpen
+plaintext
+Polybius square
+presignature
+private key
+public key
+rainbow table
+salt
+signature
+stream cipher
+subkey
+substitution cipher
+trapdoor
+trapdoor function
+web of trust
+classification scheme
+data element
+metadata registry
+representation term
+synonym ring
+value domain
+actor
+antipattern
+class diagram
+code review
+computational model
+computer model
+computer simulation
+impedance
+interface definition language
+interface description language
+L10n
+localization
+multiplicity
+p13n
+TCR
+use case
+view model
+walkthrough
+waterfall model
+AI
+antimessage
+autoprojector
+backjump
+Bloom filter
+bucket sort
+bundle adjustment
+busy beaver
+cellular automaton
+certificate
+computability
+context-free grammar
+critical exponent
+decision problem
+eager
+edit distance
+formal language
+functional
+grammar
+hash tree
+hoist
+Huffman coding
+imperative
+jump list
+Kleene star
+Kolmogorov complexity
+lambda calculus
+leaf node
+library sort
+linked list
+maxheap
+metaspace
+midrise
+minheap
+non-terminal
+non-terminal symbol
+nugget
+oracle
+oracle machine
+P
+PDA
+prefix coding
+prefix tree
+preorder
+pushdown automaton
+quantum
+rabbit
+rematerialization
+ring
+search tree
+sentence
+splay
+splay tree
+star height
+state machine
+subnode
+subnormal
+subparse
+supertree
+synchronizer
+tagger
+terminal
+terminal symbol
+transducer
+transition function
+tree
+trellis
+Turing jump
+Turing machine
+turtle
+type
+universal Turing machine
+unlimited register machine
+working set

@@ -1,0 +1,268 @@
+allowance
+banknote
+big one
+cash
+cent
+change
+coin
+coin die
+coinbox
+crockard
+double eagle
+dram
+ducat
+eagle
+eightpence
+exergue
+fido
+fiver
+flan
+free
+freeloader
+gold piece
+indirect quotation
+king's ransom
+launder
+leonine
+luma
+maasha
+minimum wage
+mint
+mitre
+money
+money bag
+money box
+mule
+nonprofit
+overstrike
+pattern
+paycheck
+payday
+piggy bank
+pollard
+provision
+quarter farthing
+ransom
+rosary
+scalding
+sceat
+sellout
+SMS
+sol
+sovereign
+spesmilo
+splurge
+spot
+steeping
+stephening
+steping
+tenner
+three halfpence
+tuition
+vigorish
+vis-à-vis
+widow's mite
+aureus
+bob
+chakram
+dime
+dupondius
+Florence
+gazet
+gold coin
+kreutzer
+maravedi
+napoleon
+nickel
+quarter
+solidus
+tanner
+tremissis
+zwanziger
+abasi
+abazi
+abbasi
+afghani
+agora
+altcoin
+altyn
+angolar
+anna
+antoninianus
+apsar
+ariary
+as
+att
+aureus
+austral
+Australian dollar
+avo
+baht
+balboa
+ban
+batzen
+birr
+bitcoin
+bolivar
+boliviano
+bolívar
+buck
+butut
+Canadian dollar
+cauri
+cedi
+centavo
+centime
+CFA franc
+CFP franc
+chetrum
+chhertum
+colón
+Conventionsthaler
+convertible mark
+cordoba
+coronato
+crown
+cruzado
+cruzeiro
+cupon
+daalder
+dalasi
+decadrachm
+denar
+denarius
+denga
+deni
+Deutsche Mark
+dinar
+diram
+dirham
+dobra
+dogecoin
+dollar
+dong
+drachma
+dupondius
+eco
+ecu
+eightpence
+ekwele
+escudo
+euro
+Euro
+eyrir
+farthing
+fillér
+fiorino
+fivepence
+florin
+foreign currency
+forint
+fourpence
+franc
+franco
+fyrk
+gerah
+gold piece
+gourde
+groat
+grosz
+guaraní
+guilder
+gulden
+ha'penny
+half-crown
+half-noble
+halier
+heller
+hexagram
+Hong Kong dollar
+hryvnia
+hwan
+hào
+iriambilanja
+joannes
+kak
+karbovanets
+khoums
+kina
+kip
+kobo
+kopek
+kopiyka
+kori
+koruna
+kreuzer
+krona
+krone
+kronenthaler
+kroon
+Krugerrand
+króna
+kurus
+kwacha
+kwanza
+kyat
+laari
+lari
+lat
+lats
+legal tender
+lek
+lempira
+leone
+leu
+lev
+lilangeni
+lipa
+litas
+loti
+luma
+mamudi
+manat
+maneh
+maravedi
+mark
+markka
+metica
+metical
+mohur
+moidore
+möngö
+naira
+nakfa
+naxar
+new shekel
+new sheqel
+New Taiwan dollar
+New Zealand dollar
+ngultrum
+ngwee
+obolus
+ostmark
+ostruble
+ouguiya
+paisa
+paise
+pataca
+paʻanga
+pengő
+penny
+perper
+peseta
+pesewa
+peso
+peso ley
+pie
+pistareen
+pound
+pound sterling
+pul
+punt
+pya
+qapik
+qindarkë
+qintar
+quadrans
+quadrigatus
+quetzal

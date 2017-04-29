@@ -1,0 +1,467 @@
+Abbe refractometer
+abhenry
+absolute
+absolute zero
+absorbance
+absorbancy
+absorbed dose
+absorbency
+absorbtance
+absorptance
+absorption
+absorption band
+absorption cell
+absorption coefficient
+absorption dynamometer
+absorption edge
+absorption line
+absorption spectrum
+acausality
+acceleration
+accelerator
+acceleron
+acceptor
+acoumeter
+across variable
+actinometer
+activation
+activation energy
+active front
+adiabat
+adiabaticity
+admittance
+advection fog
+aerosol
+air
+air parcel
+airmass
+airmass source region
+Airy beam
+Airy function
+albedo
+Alfvén wave
+allobar
+alloton
+alpha emitter
+alternate universe
+altocumulus
+altostratus
+ampere-hour
+amplification
+amplitude
+anabatic wind
+anapole
+anergy
+angle of incidence
+angoricity
+angstrom
+angstrom unit
+angular frequency
+angular momentum
+angular velocity
+annihilation
+antiatom
+antibonding orbital
+antiboson
+antibottom
+antibrane
+anticoincidence
+anticolour
+antidecuplet
+antideuteron
+antidiquark
+antidyon
+antielectron
+antielectron neutrino
+antiferromagnet
+antiferroquadrupole
+antifield
+antifluxon
+antighost
+antigoldstino
+antiholon
+antihydrogen
+antihyperon
+antihypertriton
+antikaon
+antilambda
+antilepton
+antilocalization
+antimatter
+antimolecule
+antimonopole
+antimuon neutrino
+antineutrino
+antineutron
+antinode
+antinucleon
+antinucleus
+antipartner
+antiphotino
+antiphoton
+antipion
+antiproton
+antiquasiparticle
+antiresonance
+antisextet
+antishadow
+antiskyrmion
+antisoliton
+antisphaleron
+antispurion
+antisquark
+antisterino
+antistrange
+antisymmetrizer
+antisynchronization
+antitau
+antitauon
+antitelephone
+antitop
+antitriplet
+antivortex
+acoustic emission
+decibel
+diaphragm
+eigentone
+high
+microbarom
+near field
+onset
+phon
+sabin
+side
+sone
+transient
+Wheatstone's rod
+astroparticle
+axis of evil
+BAL
+Clarke orbit
+cosmographer
+dex
+domain wall
+escape velocity
+event horizon
+gravity assist
+helmet streamer
+L1
+Lagrange point
+Lagrangian
+Lagrangian point
+magnetoid
+naked singularity
+pseudostreamer
+recombination
+secular
+Trojan
+Trojan asteroid
+Trojan moon
+Trojan planet
+Trojan point
+warp bubble
+X factor
+beamstop
+brachydome
+brachypinacoid
+Bravais lattice
+Burgers vector
+clinodiagonal
+clinodome
+clinopinacoid
+cryobench
+cryobuffer
+crystal lattice
+crystal system
+cubic
+cubooctahedron
+dendrite
+diploid
+dome
+eightling
+fluoroid
+form
+form factor
+fourling
+gliding plane
+gyroid
+hemihedrism
+hemihedron
+hemitrope
+immure
+indicatrix
+lattice
+lattice constant
+leucitoid
+macropyramid
+micropipe
+microseed
+microtexture
+motif
+orthodiagonal
+orthodome
+orthopinacoid
+paracrystal
+parameter
+pedion
+photodifference
+pinacoid
+polymorphism
+pseudomorphism
+pyramidal
+regular
+sectant
+space group
+sphenoid
+stauroscope
+symbol
+tetartohedrism
+tetartoid
+tetrahexahedron
+tetrakishexahedron
+trapezohedron
+triakisoctahedron
+trilling
+trimorph
+trimorphism
+trisoctahedron
+unit cell
+zirconoid
+zone
+DCRS
+electricity
+magnet
+Tesla coil
+angular frequency
+Bernoulli effect
+bow shock
+Froude number
+head
+peniche
+scallop theorem
+transition point
+vorticity
+ABS brake
+accelerated motion
+acceleration
+accouplement
+accumulator
+anharmonicity
+antilock brake
+autonomy
+backlash
+boss
+breaking point
+center of gravity
+choke
+damping
+Darcy friction factor
+deceleration
+diaphragm
+ejector
+enrichener
+equilibrium
+Euler–Lagrange equation
+flyweight
+force
+form factor
+fox
+fulcrum
+handwheel
+hypervelocity
+impulsive
+lever
+limited-slip differential
+manifold
+mechanostability
+moment
+motion
+Newtonian
+parallelogram of forces
+PDP
+photoelasticity
+polygon of forces
+polyspast
+poppet
+poppet valve
+ratchet
+resistance distance
+return spring
+safety
+saltation
+shear centre
+socket
+speed
+synchromesh
+tap
+torque
+torsion
+trajectory
+velocity
+velocity potential
+venturi effect
+virial
+void
+weight
+work
+absorber
+banana
+barn
+blue flash
+cave
+China syndrome
+composite particle
+corium
+heavy ion
+isobar
+reactor
+resonance
+spallation
+aberration
+absorptance
+accidental colour
+achromatic lens
+alpenglow
+angle of incidence
+angle of reflection
+angle of refraction
+apertometer
+aperture
+astigmatism
+auxetometer
+axial point
+brewster
+caustic
+caustic curve
+caustic surface
+coma
+complement
+complete internal reflection
+condenser
+constringence
+convex lens
+correlator
+diaphragm
+diffuser
+diopteric aberration
+dispersion
+field of view
+flatfield
+focal depth
+focal length
+focal plane
+focal point
+focalization
+focus
+glistening
+graticule
+horopter
+hyperlens
+instrumental width
+intensity
+lateral aberration
+longitudinal aberration
+meniscus
+meridional ray
+microdoublet
+mirage
+monogon
+negative crystal
+nematicon
+Nicol prism
+opacity
+optical axis
+optical flat
+optoisolator
+pellicle
+pencil
+photoelasticity
+PIV
+polyhedron
+positive crystal
+pseudoscope
+real image
+refractive index
+SGM
+spherical aberration
+spherocylinder
+stigmatism
+thin-film interference
+total internal reflection
+vertex
+blue
+diquark
+green
+quindecuplet
+red
+vertex
+aerosolization
+anion
+anomaly
+anticross
+anticrossing
+antidot
+atomic orbital
+bidoublet
+correlator
+dephasing
+diffraction
+doublet
+electromagnon
+entanglon
+Fock state
+Hamiltonian
+molecular orbital
+phase factor
+probability amplitude
+quantum logic
+quantum number
+quantum onion
+quantum well
+Schrödinger's cat
+singlet
+wave-particle
+wavefunction
+wavicle
+Weyl fermion
+Alcubierre metric
+Einstein field equation
+Einstein-Rosen bridge
+Kerr black hole
+Kerr-Newman black hole
+Lorentz invariant
+Minkowski spacetime
+Reissner-Nordström black hole
+Schwarzschild black hole
+spacetime
+wormhole
+bitriplet
+DIB
+isosbestic point
+monoline
+quantum limit
+raie ultime
+SFG
+spectroscopist
+spectroscopy
+absorptivity
+closed feedwater heater
+closed system
+compressibility
+critical point
+diffuser
+ectropy
+effusivity
+entropy
+heat dump
+heat engine
+heat sink
+information engine
+isentropic flow
+isobar
+isopleth
+open feedwater heater
+quality
+temperature
+thermodynamicist
+work

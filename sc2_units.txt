@@ -1,0 +1,93 @@
+SCV
+Marine
+Marauder
+Reaper
+Ghost
+Hellion
+Siege Tank
+Thor
+Viking
+Medivac
+Raven
+Banshee
+Battlecruiser
+Hellbat
+Widow Mine
+Larva
+Drone
+Overlord
+Zergling
+Queen
+Hydralisk
+Baneling
+Overseer
+Roach
+Infestor
+Mutalisk
+Corruptor
+Nydus Worm
+Ultralisk
+Brood Lord
+Swarm Host
+Viper
+Probe
+Zealot
+Stalker
+Sentry
+Observer
+Immortal
+Warp Prism
+Colossus
+Phoenix
+Void Ray
+High Templar
+Dark Templar
+Archon
+Carrier
+Mothership
+Mothership Core
+Oracle
+Tempest
+SCV
+Marine
+Marauder
+Reaper
+Ghost
+Hellion
+Siege Tank
+Thor
+Viking
+Medivac
+Raven
+Banshee
+Battlecruiser
+Larva
+Drone
+Overlord
+Zergling
+Queen
+Hydralisk
+Baneling
+Overseer
+Roach
+Infestor
+Mutalisk
+Corruptor
+Nydus Worm
+Ultralisk
+Brood Lord
+Probe
+Zealot
+Stalker
+Sentry
+Observer
+Immortal
+Warp Prism
+Colossus
+Phoenix
+Void Ray
+High Templar
+Dark Templar
+Archon
+Carrier
+Mothership
